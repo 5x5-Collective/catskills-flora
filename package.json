@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
     "autoprefixer": "^10.4.27",
     "postcss": "^8.5.8",
     "tailwindcss": "^3.4.17",
@@ -16,10 +17,19 @@
     "vite": "^8.0.0"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.79.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
+    "dexie": "^4.3.0",
+    "dexie-react-hooks": "^4.2.0",
+    "framer-motion": "^12.38.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-router-dom": "^7.13.1"
-  }
+  },
+  "description": "A modern botanical field guide app for exploring the wildflowers and plants of the Catskill Mountains, designed with the aesthetic of a 19th-century naturalist's herbarium.",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

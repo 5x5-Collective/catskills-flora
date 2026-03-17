@@ -1,24 +1,27 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Layout from './components/Layout';
-import Encyclopedia from './pages/Encyclopedia';
-import MyCatalog from './pages/MyCatalog';
-import Identify from './pages/Identify';
-import Ideas from './pages/Ideas';
-import PlantDetail from './pages/PlantDetail';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { Layout } from './components/Layout';
+import { HomePage } from './pages/HomePage';
+import { IdentifyPage } from './pages/IdentifyPage';
+import { CatalogPage } from './pages/CatalogPage';
+import { EncyclopediaPage } from './pages/EncyclopediaPage';
+import { SpecimenDetailPage } from './pages/SpecimenDetailPage';
+import { SpeciesDetailPage } from './pages/SpeciesDetailPage';
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
-          <Route index element={<Encyclopedia />} />
-          <Route path="catalog" element={<MyCatalog />} />
-          <Route path="identify" element={<Identify />} />
-          <Route path="ideas" element={<Ideas />} />
-          <Route path="plant/:id" element={<PlantDetail />} />
+          <Route index element={<HomePage />} />
+          <Route path="identify" element={<IdentifyPage />} />
+          <Route path="catalog" element={<CatalogPage />} />
+          <Route path="catalog/:id" element={<SpecimenDetailPage />} />
+          <Route path="encyclopedia" element={<EncyclopediaPage />} />
+          <Route path="encyclopedia/:id" element={<SpeciesDetailPage />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
         </Route>
       </Routes>
-    </Router>
+    </BrowserRouter>
   );
 }
 
