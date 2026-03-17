@@ -4,1065 +4,3470 @@
     "commonName": "Red Trillium",
     "latinName": "Trillium erectum",
     "family": "Melanthiaceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Rich woods", "Moist slopes", "Stream banks"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Rich woods",
+      "Moist slopes",
+      "Stream banks"
+    ],
     "elevation": "1000-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633530",
     "description": "A perennial wildflower with three broad leaves and a single nodding maroon flower. The flower has an unpleasant odor, earning it the nickname 'Stinking Benjamin.'",
     "rarity": "common",
-    "catskillsNotes": "Abundant in higher elevation forests. One of the first spring wildflowers to emerge."
+    "catskillsNotes": "Abundant in higher elevation forests. One of the first spring wildflowers to emerge.",
+    "identification": {
+      "height": "8-16 inches",
+      "leafShape": "Three broad ovate leaves in whorl, 3-7\" long, sessile, parallel-veined",
+      "flowerDescription": "Single nodding maroon-red flower, 1-2\", 3 petals, strong carrion odor",
+      "fruitSeed": "Dark red 6-angled berry, 1\", ant-dispersed",
+      "distinguishingFeatures": "FOUL ODOR (rotting meat), nodding flower beneath leaves, maroon color",
+      "lookalikes": [
+        "White Trillium",
+        "Painted Trillium",
+        "Nodding Trillium"
+      ],
+      "lookalikeDifferences": "White: white above leaves, no odor. Painted: pink V-marks. Nodding: recurved pedicel"
+    },
+    "whereToLook": [
+      "Rich moist hardwood forests",
+      "North-facing slopes 1000-3500'",
+      "Stream banks in shade"
+    ],
+    "peakSeason": "Late April-May",
+    "catskillsLocations": [
+      "Kaaterskill Falls",
+      "Overlook Mtn lower slopes",
+      "Slide Mtn wilderness"
+    ]
   },
   {
     "id": "trillium-grandiflorum",
     "commonName": "White Trillium",
     "latinName": "Trillium grandiflorum",
     "family": "Melanthiaceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Rich deciduous woods", "Rocky slopes"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Rich deciduous woods",
+      "Rocky slopes"
+    ],
     "elevation": "1200-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633531",
     "description": "Large white three-petaled flowers emerge in spring. Flowers turn pink as they age. A classic spring ephemeral of northeastern forests.",
     "rarity": "common",
-    "catskillsNotes": "Carpets the forest floor in late April and May."
+    "catskillsNotes": "Carpets the forest floor in late April and May.",
+    "identification": {
+      "height": "8-18 inches",
+      "leafShape": "Three broad ovate leaves, 2.5-6\", bluish-green, prominent veins",
+      "flowerDescription": "Large white flower ABOVE leaves, 1.5-3\", aging to pink",
+      "fruitSeed": "Dark red 6-angled berry, 1\" diameter",
+      "distinguishingFeatures": "Largest trillium, white aging to pink, held ABOVE leaves",
+      "lookalikes": [
+        "Red Trillium",
+        "Painted Trillium"
+      ],
+      "lookalikeDifferences": "Red: maroon, nodding, odor. Painted: pink V-marks, acidic soil"
+    },
+    "whereToLook": [
+      "Rich deciduous forests",
+      "Sugar maple-beech forests",
+      "Forms spectacular colonies"
+    ],
+    "peakSeason": "Late April-mid May",
+    "catskillsLocations": [
+      "North-South Lake trails",
+      "Platte Clove Road",
+      "Woodland Valley"
+    ]
   },
   {
     "id": "bloodroot",
     "commonName": "Bloodroot",
     "latinName": "Sanguinaria canadensis",
     "family": "Papaveraceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Rich woods", "Floodplains", "Rocky ledges"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Rich woods",
+      "Floodplains",
+      "Rocky ledges"
+    ],
     "elevation": "800-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633544",
     "description": "Pure white flowers with 8-12 petals emerge before leaves unfurl. The rhizome produces red-orange sap, giving the plant its common name.",
     "rarity": "common",
-    "catskillsNotes": "Important early nectar source. Native Americans used the sap as dye."
+    "catskillsNotes": "Important early nectar source. Native Americans used the sap as dye.",
+    "identification": {
+      "height": "6-10 inches",
+      "leafShape": "Single palmately lobed leaf, 3-7 lobes, 4-9\" wide, emerges wrapped around flower",
+      "flowerDescription": "Single white flower, 1-2\", 8-12 petals, golden stamens, lasts 1-2 days",
+      "fruitSeed": "Cylindrical capsule, 1-2\", ant-attracting seeds",
+      "distinguishingFeatures": "RED-ORANGE SAP in roots (diagnostic!), wrapped emergence, earliest bloomer",
+      "lookalikes": [
+        "Canada Anemone",
+        "Wood Anemone"
+      ],
+      "lookalikeDifferences": "Anemones: multiple flowers, different leaves, later, WHITE sap"
+    },
+    "whereToLook": [
+      "Rich forests/floodplains",
+      "Rocky wooded slopes",
+      "Stream corridors"
+    ],
+    "peakSeason": "Late March-mid April",
+    "catskillsLocations": [
+      "Escarpment Trail lower",
+      "Ashokan shores",
+      "Woodland Valley campground"
+    ]
   },
   {
     "id": "mayapple",
     "commonName": "Mayapple",
     "latinName": "Podophyllum peltatum",
     "family": "Berberidaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Deciduous forests", "Clearings", "Roadsides"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Deciduous forests",
+      "Clearings",
+      "Roadsides"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633580",
     "description": "Umbrella-like leaves hide a single white nodding flower. Produces a lemon-scented fruit in late summer. Most parts of the plant are toxic.",
     "rarity": "common",
-    "catskillsNotes": "Forms dense colonies. Fruit is edible when fully ripe but exercise caution."
+    "catskillsNotes": "Forms dense colonies. Fruit is edible when fully ripe but exercise caution.",
+    "identification": {
+      "height": "12-18 inches",
+      "leafShape": "1-2 umbrella leaves, 5-9 lobes, 8-12\" wide. Two leaves = flowering",
+      "flowerDescription": "White waxy nodding flower hidden beneath leaves, 1.5-2\", sweet scent",
+      "fruitSeed": "Lemon-shaped yellow berry, 1-2\". WARNING: Only ripe fruit edible\u2014rest TOXIC!",
+      "distinguishingFeatures": "Umbrella leaves, hidden flower, colonies. TOXIC except ripe fruit!",
+      "lookalikes": [],
+      "lookalikeDifferences": "Unique umbrella form, no lookalikes"
+    },
+    "whereToLook": [
+      "Rich forest clearings",
+      "Woodland openings",
+      "Forest roads"
+    ],
+    "peakSeason": "May (flowers), July-Aug (ripe fruit)",
+    "catskillsLocations": [
+      "Lower forest trails",
+      "Old logging roads <2500'"
+    ]
   },
   {
     "id": "hepatica",
     "commonName": "Sharp-lobed Hepatica",
     "latinName": "Hepatica acutiloba",
     "family": "Ranunculaceae",
-    "bloomMonths": [3, 4, 5],
-    "habitat": ["Rocky wooded slopes", "Limestone areas"],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "habitat": [
+      "Rocky wooded slopes",
+      "Limestone areas"
+    ],
     "elevation": "1000-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633502",
     "description": "One of the earliest spring blooms, with flowers in white, pink, or purple. Three-lobed leaves persist through winter.",
     "rarity": "common",
-    "catskillsNotes": "Watch for these under fallen leaves in March."
+    "catskillsNotes": "Watch for these under fallen leaves in March.",
+    "identification": {
+      "height": "4-6 inches",
+      "leafShape": "3-lobed evergreen leaves with SHARP-POINTED lobes, 1-3\", purple-tinged beneath",
+      "flowerDescription": "Delicate flowers, 0.5-1\", variable colors (white/pink/purple/blue), 6-10 sepals",
+      "fruitSeed": "Small fuzzy achenes",
+      "distinguishingFeatures": "EARLIEST bloomer (with snow!), sharp lobes, old leaves persist",
+      "lookalikes": [
+        "Round-lobed Hepatica"
+      ],
+      "lookalikeDifferences": "Round-lobed has ROUNDED (not pointed) lobes"
+    },
+    "whereToLook": [
+      "Rocky limestone slopes",
+      "Calcium-rich soils",
+      "South/west slopes"
+    ],
+    "peakSeason": "Late March-April, often Feb-March",
+    "catskillsLocations": [
+      "Limestone outcrops",
+      "Limestone valleys"
+    ]
   },
   {
     "id": "jack-in-the-pulpit",
     "commonName": "Jack-in-the-Pulpit",
     "latinName": "Arisaema triphyllum",
     "family": "Araceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Moist woods", "Swamps", "Stream banks"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Moist woods",
+      "Swamps",
+      "Stream banks"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633615",
     "description": "Distinctive hooded spathe (the 'pulpit') shelters the spadix ('Jack'). Produces bright red berries in fall.",
     "rarity": "common",
-    "catskillsNotes": "The corm contains calcium oxalate crystals that cause burning if eaten raw."
+    "catskillsNotes": "The corm contains calcium oxalate crystals that cause burning if eaten raw.",
+    "identification": {
+      "height": "12-30 inches",
+      "leafShape": "1-2 leaves, each with 3 large leaflets, 3-8\" long, smooth margins",
+      "flowerDescription": "Hooded spathe (pulpit), green/purple-striped, 2-6\" tall, arches over spadix (Jack)",
+      "fruitSeed": "Cluster of bright red berries on spadix in fall. TOXIC RAW\u2014calcium oxalate crystals!",
+      "distinguishingFeatures": "Unmistakable 'preacher in pulpit' form, striped spathe. WARNING: causes burning if eaten",
+      "lookalikes": [
+        "Green Dragon (rare in Catskills)"
+      ],
+      "lookalikeDifferences": "Green Dragon: 5-15 leaflets (vs 3), long whip-like spadix"
+    },
+    "whereToLook": [
+      "Moist woods/swamps",
+      "Stream banks",
+      "Rich deciduous forests"
+    ],
+    "peakSeason": "April-June (flowers), Aug-Oct (berries)",
+    "catskillsLocations": [
+      "Wet woodland trails",
+      "Stream corridors"
+    ]
   },
   {
     "id": "wild-columbine",
     "commonName": "Wild Columbine",
     "latinName": "Aquilegia canadensis",
     "family": "Ranunculaceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Rocky woods", "Cliffs", "Ledges"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Rocky woods",
+      "Cliffs",
+      "Ledges"
+    ],
     "elevation": "1000-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633490",
     "description": "Nodding red and yellow flowers with distinctive spurred petals. A favorite of hummingbirds.",
     "rarity": "common",
-    "catskillsNotes": "Thrives on rocky outcrops. Look for them along cliff faces and rocky trails."
+    "catskillsNotes": "Thrives on rocky outcrops. Look for them along cliff faces and rocky trails.",
+    "identification": {
+      "height": "12-24 inches",
+      "leafShape": "Compound leaves, groups of 3 rounded lobed leaflets, fern-like, blue-green",
+      "flowerDescription": "Nodding red/yellow flowers, 1-2\" long, 5 red spurred petals, yellow interior",
+      "fruitSeed": "Erect brown capsules with 5 beaked sections, black seeds",
+      "distinguishingFeatures": "Red/yellow bicolored nodding flowers with long spurs, grows on cliffs, hummingbird favorite",
+      "lookalikes": [
+        "Garden columbine escapes"
+      ],
+      "lookalikeDifferences": "Wild: red/yellow. Garden: blue/purple/white, different spurs"
+    },
+    "whereToLook": [
+      "Rocky outcrops/cliffs",
+      "Ledges/crevices",
+      "Well-drained gravelly areas"
+    ],
+    "peakSeason": "Late April-June, peak May",
+    "catskillsLocations": [
+      "Kaaterskill Clove rocky areas",
+      "Overlook Mtn rocky sections"
+    ]
   },
   {
     "id": "violet-canada",
     "commonName": "Canada Violet",
     "latinName": "Viola canadensis",
     "family": "Violaceae",
-    "bloomMonths": [5, 6, 7],
-    "habitat": ["Rich woods", "Stream banks", "Mountain ravines"],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "habitat": [
+      "Rich woods",
+      "Stream banks",
+      "Mountain ravines"
+    ],
     "elevation": "1500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633720",
     "description": "White flowers with yellow centers and purple-tinged backs. Grows taller than most violets, up to 16 inches.",
     "rarity": "common",
-    "catskillsNotes": "One of the most common woodland violets in the Catskills."
+    "catskillsNotes": "One of the most common woodland violets in the Catskills.",
+    "identification": {
+      "height": "8-16\" (taller than most violets)",
+      "leafShape": "Heart-shaped, toothed, 1-4\" wide, on long petioles",
+      "flowerDescription": "White flowers, yellow center, purple-tinged back, 5 petals with purple veins, 0.5-0.75\"",
+      "fruitSeed": "Capsules that explosively dehisce, shooting seeds several feet",
+      "distinguishingFeatures": "Taller than most violets (8-16\"), white with yellow eye and purple back, leafy stems (not basal), blooms all summer",
+      "lookalikes": [
+        "Sweet White Violet",
+        "other white violets"
+      ],
+      "lookalikeDifferences": "Canada much taller (8-16\" vs 3-5\"), leafy stems vs basal, purple-tinged backs"
+    },
+    "whereToLook": [
+      "Rich moist woods",
+      "Stream banks/ravines",
+      "Cool mountain forests 1500-4000'"
+    ],
+    "peakSeason": "May-July, longest blooming violet",
+    "catskillsLocations": [
+      "Mountain stream corridors",
+      "Cool ravine forests"
+    ]
   },
   {
     "id": "dutchmans-breeches",
     "commonName": "Dutchman's Breeches",
     "latinName": "Dicentra cucullaria",
     "family": "Papaveraceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Rich woods", "Rocky slopes"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Rich woods",
+      "Rocky slopes"
+    ],
     "elevation": "1000-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633555",
     "description": "Delicate white flowers shaped like upside-down pantaloons. Fern-like blue-green foliage.",
     "rarity": "common",
-    "catskillsNotes": "Spring ephemeral. Dies back completely by summer."
+    "catskillsNotes": "Spring ephemeral. Dies back completely by summer.",
+    "identification": {
+      "height": "6-12\"",
+      "leafShape": "Finely divided fern-like gray-green leaves, twice compound, basal",
+      "flowerDescription": "White/pale pink flowers shaped like upside-down pantaloons, 0.5-0.75\", arching raceme of 4-10, yellow tips",
+      "fruitSeed": "Small capsule, black seeds with white fleshy appendages for ant dispersal",
+      "distinguishingFeatures": "Unmistakable 'pantaloons' shape, fern-like foliage, spring ephemeral (gone by summer), often with Squirrel Corn",
+      "lookalikes": [
+        "Squirrel Corn"
+      ],
+      "lookalikeDifferences": "Squirrel Corn: heart-shaped (not pantaloon) flowers, fragrant, yellow tubers like corn"
+    },
+    "whereToLook": [
+      "Rich woods with deep leaf mold",
+      "Rocky wooded slopes",
+      "Large colonies"
+    ],
+    "peakSeason": "April-early May, disappears by mid-summer",
+    "catskillsLocations": [
+      "Rich forest slopes",
+      "Rocky wooded areas"
+    ]
   },
   {
     "id": "pink-lady-slipper",
     "commonName": "Pink Lady's Slipper",
     "latinName": "Cypripedium acaule",
     "family": "Orchidaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Acidic coniferous forests", "Oak woods", "Boggy areas"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Acidic coniferous forests",
+      "Oak woods",
+      "Boggy areas"
+    ],
     "elevation": "1000-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633642",
     "description": "Large pink pouch-shaped flower rises between two basal leaves. A wild orchid requiring specific mycorrhizal fungi.",
     "rarity": "uncommon",
-    "catskillsNotes": "Protected species. Never pick or transplant. Requires decades to reach flowering maturity."
+    "catskillsNotes": "Protected species. Never pick or transplant. Requires decades to reach flowering maturity.",
+    "identification": {
+      "height": "10-15\"",
+      "leafShape": "Two large basal leaves, broadly elliptic, 4-8\" long, deeply pleated with parallel veins, NO stem leaves",
+      "flowerDescription": "Single large pink pouch-shaped flower (slipper), 1.5-2\" long, veined with deeper pink, twisted brown-purple sepals/petals",
+      "fruitSeed": "Capsule with thousands of dust-like seeds requiring specific fungi",
+      "distinguishingFeatures": "Large pink inflated pouch, ONLY 2 basal leaves, requires mycorrhizal fungi, takes 10-17 years to bloom. PROTECTED\u2014never pick/transplant!",
+      "lookalikes": [
+        "Yellow Lady's Slipper",
+        "Showy Lady's Slipper"
+      ],
+      "lookalikeDifferences": "Pink has 2 basal leaves (others leafy stems), pink pouch no white, acidic soil (others calcium-rich)"
+    },
+    "whereToLook": [
+      "Acidic coniferous forests",
+      "Pine-oak woods",
+      "Boggy areas, acid soil"
+    ],
+    "peakSeason": "Late May-mid June",
+    "catskillsLocations": [
+      "Hemlock forests",
+      "Pine-oak areas 1000-3500'"
+    ]
   },
   {
     "id": "showy-orchis",
     "commonName": "Showy Orchis",
     "latinName": "Galearis spectabilis",
     "family": "Orchidaceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Rich deciduous woods", "Rocky slopes"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Rich deciduous woods",
+      "Rocky slopes"
+    ],
     "elevation": "1200-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633645",
     "description": "Striking bicolored orchid with purple hood and white lip. Sweet-scented flowers attract early pollinators.",
     "rarity": "uncommon",
-    "catskillsNotes": "One of the earliest orchids to bloom. Becoming less common due to habitat loss."
+    "catskillsNotes": "One of the earliest orchids to bloom. Becoming less common due to habitat loss.",
+    "identification": {
+      "height": "4-10\"",
+      "leafShape": "Two large basal leaves, broadly elliptic, 3-8\" long, glossy, deeply ribbed",
+      "flowerDescription": "Spike of 3-8 showy bicolored flowers, purple hood with white lip, 0.5-1\", sweet-scented",
+      "fruitSeed": "Small capsule with tiny seeds",
+      "distinguishingFeatures": "Striking bicolored orchid (purple/white), sweet scent, early bloomer, only 2 basal leaves",
+      "lookalikes": [
+        "Pink Lady's Slipper"
+      ],
+      "lookalikeDifferences": "Showy Orchis: bicolored purple/white flowers in spike. Lady's Slipper: single pink pouch flower"
+    },
+    "whereToLook": [
+      "Rich deciduous woods",
+      "Rocky slopes",
+      "Calcium-rich soils"
+    ],
+    "peakSeason": "Late April-May, one of earliest orchids",
+    "catskillsLocations": [
+      "Rich hardwood forests",
+      "Rocky wooded slopes"
+    ]
   },
   {
     "id": "trout-lily",
     "commonName": "Trout Lily",
     "latinName": "Erythronium americanum",
     "family": "Liliaceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Rich woods", "Floodplains", "Stream banks"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Rich woods",
+      "Floodplains",
+      "Stream banks"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633570",
     "description": "Nodding yellow lily-like flowers. Mottled leaves resemble brook trout markings. Forms extensive colonies.",
     "rarity": "common",
-    "catskillsNotes": "Only plants with two leaves produce flowers. Can take 7 years to bloom."
+    "catskillsNotes": "Only plants with two leaves produce flowers. Can take 7 years to bloom.",
+    "identification": {
+      "height": "4-8\"",
+      "leafShape": "1-2 mottled leaves, elliptic, 3-8\" long, brown/green marbling resembles trout, basal. ONLY 2-leaf plants flower!",
+      "flowerDescription": "Single nodding yellow lily-like flower, 1-1.5\", 6 recurved tepals, brownish outside",
+      "fruitSeed": "Capsule with seeds having elaiosomes for ant dispersal",
+      "distinguishingFeatures": "Mottled trout-pattern leaves (diagnostic!), nodding yellow flower, forms huge colonies (takes 7+ years to flower)",
+      "lookalikes": [
+        "Dogtooth Violet (same species, different name)"
+      ],
+      "lookalikeDifferences": "No similar species\u2014mottled leaves are unique"
+    },
+    "whereToLook": [
+      "Rich woods",
+      "Floodplains",
+      "Stream banks",
+      "Vast carpet colonies"
+    ],
+    "peakSeason": "April-May",
+    "catskillsLocations": [
+      "Lower elevation forests",
+      "Floodplain areas"
+    ]
   },
   {
     "id": "false-solomons-seal",
     "commonName": "False Solomon's Seal",
     "latinName": "Maianthemum racemosum",
     "family": "Asparagaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Woods", "Thickets", "Stream banks"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Woods",
+      "Thickets",
+      "Stream banks"
+    ],
     "elevation": "500-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633595",
     "description": "Arching stem with plume of creamy white flowers at the tip. Produces speckled red berries in fall.",
     "rarity": "common",
-    "catskillsNotes": "Young shoots edible like asparagus. Berries were used by indigenous peoples."
+    "catskillsNotes": "Young shoots edible like asparagus. Berries were used by indigenous peoples.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Alternate leaves, broadly lance-shaped, 3-6\" long, parallel-veined, arching stem",
+      "flowerDescription": "Plume of creamy-white flowers at stem tip, feathery panicle, sweet-scented",
+      "fruitSeed": "Speckled red berries (green with red spots, then fully red), in terminal cluster",
+      "distinguishingFeatures": "Arching zigzag stem, flowers at TIP (vs along stem), feathery plume, red berries in fall",
+      "lookalikes": [
+        "Solomon's Seal"
+      ],
+      "lookalikeDifferences": "False: flowers at tip, plume-like. True: flowers dangle along stem in pairs, tubular"
+    },
+    "whereToLook": [
+      "Woods",
+      "Thickets",
+      "Stream banks",
+      "500-3500'"
+    ],
+    "peakSeason": "May-June",
+    "catskillsLocations": [
+      "Woodland trails",
+      "Stream corridors"
+    ]
   },
   {
     "id": "solomons-seal",
     "commonName": "Solomon's Seal",
     "latinName": "Polygonatum biflorum",
     "family": "Asparagaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Woods", "Shaded slopes"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Woods",
+      "Shaded slopes"
+    ],
     "elevation": "800-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633596",
     "description": "Pairs of white-green tubular flowers dangle beneath arching stems. Blue-black berries in fall.",
     "rarity": "common",
-    "catskillsNotes": "Rhizome scars resemble official seals, giving the plant its name."
+    "catskillsNotes": "Rhizome scars resemble official seals, giving the plant its name.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Alternate leaves, ovate, 2-6\" long, parallel-veined, on arching stem",
+      "flowerDescription": "Pairs of white-green tubular flowers dangling BENEATH stem from leaf axils, 0.5-1\"",
+      "fruitSeed": "Blue-black berries in fall",
+      "distinguishingFeatures": "Arching stem, flowers in PAIRS dangling along stem (not at tip), tubular bells, rhizome scars resemble seals",
+      "lookalikes": [
+        "False Solomon's Seal"
+      ],
+      "lookalikeDifferences": "True: paired tubular flowers along stem. False: plume of flowers at tip only"
+    },
+    "whereToLook": [
+      "Woods",
+      "Shaded slopes",
+      "800-3000'"
+    ],
+    "peakSeason": "May-June",
+    "catskillsLocations": [
+      "Wooded trails",
+      "Shaded forest areas"
+    ]
   },
   {
     "id": "wild-geranium",
     "commonName": "Wild Geranium",
     "latinName": "Geranium maculatum",
     "family": "Geraniaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Open woods", "Meadows", "Roadsides"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Open woods",
+      "Meadows",
+      "Roadsides"
+    ],
     "elevation": "800-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633577",
     "description": "Rose-purple five-petaled flowers. Deeply lobed leaves. Seed capsules explode when ripe.",
     "rarity": "common",
-    "catskillsNotes": "Root was used medicinally by settlers and Native Americans."
+    "catskillsNotes": "Root was used medicinally by settlers and Native Americans.",
+    "identification": {
+      "height": "12-24 inches",
+      "leafShape": "Deeply palmately lobed basal leaves, 3-5 lobes, toothed margins, long petioles",
+      "flowerDescription": "Rose-purple 5-petaled flowers, 1-1.5 inches across, in loose clusters",
+      "fruitSeed": "Capsules with long beak that explosively dehisces, catapulting seeds",
+      "distinguishingFeatures": "Purple flowers, deeply lobed palmate leaves, explosive seed dispersal, sticky hairs",
+      "lookalikes": [
+        "Herb Robert (weedy species)"
+      ],
+      "lookalikeDifferences": "Wild Geranium is larger, deeper purple, native woodland plant"
+    },
+    "whereToLook": [
+      "Open woods",
+      "Meadows",
+      "Roadsides 800-3000 feet"
+    ],
+    "peakSeason": "May-June",
+    "catskillsLocations": [
+      "Woodland edges",
+      "Forest trail margins"
+    ]
   },
   {
     "id": "foamflower",
     "commonName": "Foamflower",
     "latinName": "Tiarella cordifolia",
     "family": "Saxifragaceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Rich woods", "Rocky slopes", "Stream banks"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Rich woods",
+      "Rocky slopes",
+      "Stream banks"
+    ],
     "elevation": "1000-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633702",
     "description": "Spikes of tiny white flowers create a foam-like appearance. Heart-shaped leaves with bronze markings.",
     "rarity": "common",
-    "catskillsNotes": "Spreads by stolons, forming attractive groundcover in shaded areas."
+    "catskillsNotes": "Spreads by stolons, forming attractive groundcover in shaded areas.",
+    "identification": {
+      "height": "6-12 inches",
+      "leafShape": "Heart-shaped basal leaves, 2-4 inches wide, lobed and toothed, with bronze markings, semi-evergreen",
+      "flowerDescription": "Spikes of tiny white flowers creating feathery foam-like appearance, 3-6 inch spike",
+      "fruitSeed": "Small capsules",
+      "distinguishingFeatures": "White foamy flower spikes, heart-shaped leaves with bronze markings, spreads by stolons",
+      "lookalikes": [
+        "Miterwort (Mitella)"
+      ],
+      "lookalikeDifferences": "Foamflower has feathery flowers and is larger; Miterwort has fringed flowers"
+    },
+    "whereToLook": [
+      "Rich woods",
+      "Rocky slopes",
+      "Stream banks 1000-3500 feet"
+    ],
+    "peakSeason": "April-June",
+    "catskillsLocations": [
+      "Wooded trails",
+      "Shaded stream banks"
+    ]
   },
   {
     "id": "wild-ginger",
     "commonName": "Wild Ginger",
     "latinName": "Asarum canadense",
     "family": "Aristolochiaceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Rich woods", "Shaded slopes"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Rich woods",
+      "Shaded slopes"
+    ],
     "elevation": "800-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633505",
     "description": "Hidden maroon flowers at ground level beneath heart-shaped leaves. Rhizomes have ginger-like aroma.",
     "rarity": "common",
-    "catskillsNotes": "Flowers are pollinated by fungus gnats and ground beetles."
+    "catskillsNotes": "Flowers are pollinated by fungus gnats and ground beetles.",
+    "identification": {
+      "height": "6-8 inches (often prostrate)",
+      "leafShape": "Two large heart-shaped leaves, 3-6 inches wide, velvety-hairy, kidney-shaped, hide flower",
+      "flowerDescription": "Hidden maroon cup-shaped flower AT GROUND LEVEL beneath leaves, 3-lobed, 1 inch, hairy",
+      "fruitSeed": "Leathery capsule with seeds",
+      "distinguishingFeatures": "HIDDEN flower at ground level (must lift leaves to see!), ginger-scented rhizome when broken",
+      "lookalikes": [],
+      "lookalikeDifferences": "No lookalikes - unique hidden flower and ginger scent make ID certain"
+    },
+    "whereToLook": [
+      "Rich deciduous woods",
+      "Shaded slopes in deep leaf litter"
+    ],
+    "peakSeason": "April-May",
+    "catskillsLocations": [
+      "Rich hardwood forest floors"
+    ]
   },
   {
     "id": "wood-anemone",
     "commonName": "Wood Anemone",
     "latinName": "Anemonella thalictroides",
     "family": "Ranunculaceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Deciduous woods", "Rocky areas"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Deciduous woods",
+      "Rocky areas"
+    ],
     "elevation": "1000-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633485",
     "description": "Delicate white to pink flowers on thin stems. Compound leaves resembling meadow-rue.",
     "rarity": "common",
-    "catskillsNotes": "Also called Rue Anemone. Blooms for several weeks in spring."
+    "catskillsNotes": "Also called Rue Anemone. Blooms for several weeks in spring.",
+    "identification": {
+      "height": "4-8 inches",
+      "leafShape": "Compound leaves divided into 3 delicate leaflets resembling meadow-rue, fern-like appearance",
+      "flowerDescription": "White to pale pink flowers, 0.5-1 inch across, 5-10 petal-like sepals, on thin stems",
+      "fruitSeed": "Small achenes in clusters",
+      "distinguishingFeatures": "Delicate Rue Anemone, compound meadow-rue-like leaves, blooms for several weeks",
+      "lookalikes": [
+        "Rue Anemone (often same common name)",
+        "Canada Anemone"
+      ],
+      "lookalikeDifferences": "Wood/Rue Anemone very similar. Canada Anemone is much larger with different leaf structure"
+    },
+    "whereToLook": [
+      "Deciduous woods",
+      "Rocky areas 1000-3000 feet"
+    ],
+    "peakSeason": "April-June",
+    "catskillsLocations": [
+      "Wooded rocky slopes"
+    ]
   },
   {
     "id": "spring-beauty",
     "commonName": "Spring Beauty",
     "latinName": "Claytonia virginica",
     "family": "Montiaceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Moist woods", "Meadows", "Stream banks"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Moist woods",
+      "Meadows",
+      "Stream banks"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633545",
     "description": "Small white to pink flowers with darker pink veining. Narrow grass-like leaves. Edible corms.",
     "rarity": "common",
-    "catskillsNotes": "Can form carpets of flowers in suitable habitat. An important early nectar source."
+    "catskillsNotes": "Can form carpets of flowers in suitable habitat. An important early nectar source.",
+    "identification": {
+      "height": "4-8 inches",
+      "leafShape": "Two narrow grass-like succulent leaves per stem, 2-6 inches long",
+      "flowerDescription": "Small white to pale pink flowers with darker pink veining, 5 petals, 0.5 inch, in clusters",
+      "fruitSeed": "Small capsules; edible corms underground (potato-like)",
+      "distinguishingFeatures": "Grass-like narrow leaves, pink-veined white flowers, edible corms, can form carpets",
+      "lookalikes": [],
+      "lookalikeDifferences": "No dangerous lookalikes; corms are edible and nutritious"
+    },
+    "whereToLook": [
+      "Moist woods",
+      "Meadows",
+      "Stream banks 500-2500 feet"
+    ],
+    "peakSeason": "April-May",
+    "catskillsLocations": [
+      "Lower elevation woods",
+      "Floodplain areas"
+    ]
   },
   {
     "id": "blue-cohosh",
     "commonName": "Blue Cohosh",
     "latinName": "Caulophyllum thalictroides",
     "family": "Berberidaceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Rich woods", "Slopes"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Rich woods",
+      "Slopes"
+    ],
     "elevation": "1000-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633540",
     "description": "Greenish-yellow flowers appear before leaves fully expand. Blue berry-like seeds in fall.",
     "rarity": "common",
-    "catskillsNotes": "Historically used medicinally, but contains toxic compounds. Handle with care."
+    "catskillsNotes": "Historically used medicinally, but contains toxic compounds. Handle with care.",
+    "identification": {
+      "height": "1-2.5 feet",
+      "leafShape": "Large compound leaves, 2-3 times divided, blue-green and glaucous (waxy coating)",
+      "flowerDescription": "Greenish-yellow to purplish small flowers appearing before leaves fully expand, 6-petaled, in clusters",
+      "fruitSeed": "Bright BLUE berry-like seeds on thick stalks (not true berries). WARNING: TOXIC!",
+      "distinguishingFeatures": "Blue-green glaucous leaves, flowers before full leaf expansion, distinctive TOXIC blue 'berries' in fall",
+      "lookalikes": [
+        "Black Cohosh"
+      ],
+      "lookalikeDifferences": "Blue Cohosh has blue seeds and compound leaves; Black Cohosh has white flower spikes and different foliage"
+    },
+    "whereToLook": [
+      "Rich deciduous woods",
+      "Wooded slopes",
+      "1000-3000 feet"
+    ],
+    "peakSeason": "April-May for flowers, August-September for blue seeds",
+    "catskillsLocations": [
+      "Rich hardwood forests",
+      "Mountain slopes"
+    ]
   },
   {
     "id": "goldthread",
     "commonName": "Goldthread",
     "latinName": "Coptis trifolia",
     "family": "Ranunculaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Coniferous woods", "Bogs", "Swamps"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Coniferous woods",
+      "Bogs",
+      "Swamps"
+    ],
     "elevation": "1500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633555",
     "description": "Tiny white flowers on thread-like stems. Evergreen three-parted leaves. Named for golden-yellow roots.",
     "rarity": "common",
-    "catskillsNotes": "Prefers cool, moist habitats at higher elevations. Used historically for canker sores."
+    "catskillsNotes": "Prefers cool, moist habitats at higher elevations. Used historically for canker sores.",
+    "identification": {
+      "height": "3-6 inches",
+      "leafShape": "Evergreen compound leaves divided into 3 shiny dark green leaflets, persistent year-round",
+      "flowerDescription": "Tiny white flowers on thread-like stems, 0.25-0.5 inch across, solitary, 5-7 petal-like sepals",
+      "fruitSeed": "Small follicles with seeds",
+      "distinguishingFeatures": "GOLDEN-YELLOW THREADLIKE ROOTS (diagnostic - gently pull plant to see!), evergreen leaves, prefers cool mossy sites",
+      "lookalikes": [
+        "Rue Anemone"
+      ],
+      "lookalikeDifferences": "Goldthread has 3-parted evergreen leaves, golden roots, and grows in cool bogs; Rue Anemone is deciduous"
+    },
+    "whereToLook": [
+      "Cool coniferous woods",
+      "Bogs and swamps",
+      "Mossy areas 1500-4000 feet"
+    ],
+    "peakSeason": "May-June",
+    "catskillsLocations": [
+      "High elevation bogs",
+      "Spruce-fir forests with sphagnum"
+    ]
   },
   {
     "id": "painted-trillium",
     "commonName": "Painted Trillium",
     "latinName": "Trillium undulatum",
     "family": "Melanthiaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Cool acidic woods", "Mountain slopes"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Cool acidic woods",
+      "Mountain slopes"
+    ],
     "elevation": "1500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633532",
     "description": "White petals with magenta V-shaped markings at the base. Prefers cooler, more acidic soils than other trilliums.",
     "rarity": "uncommon",
-    "catskillsNotes": "More common at higher elevations. Indicator of undisturbed forest."
+    "catskillsNotes": "More common at higher elevations. Indicator of undisturbed forest.",
+    "identification": {
+      "height": "8-16 inches",
+      "leafShape": "Three ovate leaves in whorl, 2-5 inches long, on short petioles (unlike other trilliums), bluish-green",
+      "flowerDescription": "White petals with distinctive MAGENTA V-SHAPED MARKINGS at base, 2-3 inches across, held erect above leaves",
+      "fruitSeed": "Red berry",
+      "distinguishingFeatures": "Diagnostic PINK/MAGENTA V-MARKS at petal base! Prefers cool acidic soils, indicator of undisturbed forest",
+      "lookalikes": [
+        "White Trillium",
+        "Red Trillium"
+      ],
+      "lookalikeDifferences": "Painted has magenta V-marks and prefers acidic soil; White is pure white on neutral soil; Red is maroon"
+    },
+    "whereToLook": [
+      "Cool acidic woods",
+      "Mountain slopes with hemlock/spruce",
+      "1500-4000 feet"
+    ],
+    "peakSeason": "May-June, blooms later than other trilliums",
+    "catskillsLocations": [
+      "Higher elevation forests",
+      "Acidic hemlock-spruce areas",
+      "Mountain summits"
+    ]
   },
   {
     "id": "bunchberry",
     "commonName": "Bunchberry",
     "latinName": "Cornus canadensis",
     "family": "Cornaceae",
-    "bloomMonths": [6, 7],
-    "habitat": ["Cool coniferous woods", "Boggy areas"],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "habitat": [
+      "Cool coniferous woods",
+      "Boggy areas"
+    ],
     "elevation": "2000-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633552",
     "description": "Low-growing dogwood with white 'flower' (actually bracts). Produces clusters of red berries in fall.",
     "rarity": "uncommon",
-    "catskillsNotes": "Found primarily in higher, cooler elevations. Berries are edible but bland."
+    "catskillsNotes": "Found primarily in higher, cooler elevations. Berries are edible but bland.",
+    "identification": {
+      "height": "3-8 inches (low creeping groundcover)",
+      "leafShape": "Whorl of 4-6 oval leaves at stem top, 1-3 inches long, parallel-veined, resembles tiny dogwood",
+      "flowerDescription": "White 'flower' (actually 4 white bracts surrounding tiny greenish true flowers), 1 inch across",
+      "fruitSeed": "Cluster of bright red berries in a bunch (gives name Bunchberry). Edible but bland",
+      "distinguishingFeatures": "Miniature dogwood appearance, 4 white bracts, low creeping habit forming carpets, distinctive red berry cluster",
+      "lookalikes": [
+        "Flowering dogwood tree"
+      ],
+      "lookalikeDifferences": "Bunchberry is low creeping herb; Flowering dogwood is a tree. Both have similar bract structure"
+    },
+    "whereToLook": [
+      "Cool coniferous woods",
+      "Boggy areas",
+      "2000-4000 feet"
+    ],
+    "peakSeason": "June-July",
+    "catskillsLocations": [
+      "High elevation cool forests",
+      "Spruce-fir zones"
+    ]
   },
   {
     "id": "clintonia",
     "commonName": "Bluebead Lily",
     "latinName": "Clintonia borealis",
     "family": "Liliaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Cool coniferous woods", "Mountain forests"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Cool coniferous woods",
+      "Mountain forests"
+    ],
     "elevation": "1500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633547",
     "description": "Yellow bell-shaped flowers on leafless stalks. Produces bright blue berries. Large glossy leaves.",
     "rarity": "common",
-    "catskillsNotes": "Also called Corn Lily. Berries are toxic despite attractive appearance."
+    "catskillsNotes": "Also called Corn Lily. Berries are toxic despite attractive appearance.",
+    "identification": {
+      "height": "6-16 inches",
+      "leafShape": "2-5 large glossy basal leaves, broadly lance-shaped, 5-12 inches long, parallel-veined, NO stem leaves",
+      "flowerDescription": "Yellow bell-shaped flowers, nodding, 3-8 flowers on single leafless stalk",
+      "fruitSeed": "Bright porcelain-BLUE berries in cluster (gives name Bluebead). Very showy but TOXIC!",
+      "distinguishingFeatures": "Glossy basal leaves, yellow bells on leafless stalk, bright BLUE TOXIC berries (don't eat despite beauty!)",
+      "lookalikes": [
+        "Large-leaved Avens"
+      ],
+      "lookalikeDifferences": "Clintonia has yellow bell flowers and blue berries; Avens has different flower and fruit structure"
+    },
+    "whereToLook": [
+      "Cool coniferous woods",
+      "Mountain forests",
+      "1500-4000 feet"
+    ],
+    "peakSeason": "May-June",
+    "catskillsLocations": [
+      "Hemlock-spruce forests",
+      "Mountain trails"
+    ]
   },
   {
     "id": "indian-cucumber",
     "commonName": "Indian Cucumber Root",
     "latinName": "Medeola virginiana",
     "family": "Liliaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Rich woods", "Mountain forests"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Rich woods",
+      "Mountain forests"
+    ],
     "elevation": "1000-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633593",
     "description": "Distinctive tiered whorls of leaves. Small yellow flowers. Root tastes like cucumber.",
     "rarity": "common",
-    "catskillsNotes": "Edible root but harvest threatens the plant. Better to appreciate than consume."
+    "catskillsNotes": "Edible root but harvest threatens the plant. Better to appreciate than consume.",
+    "identification": {
+      "height": "1-2.5 feet",
+      "leafShape": "Distinctive TIERED WHORLS: 5-9 leaves at mid-stem, 3 leaves at top (if flowering)",
+      "flowerDescription": "Small yellowish-green nodding flowers from upper whorl, 3-parted, recurved",
+      "fruitSeed": "Purple-black berries with 3 persistent stigmas",
+      "distinguishingFeatures": "TIERED architecture (unmistakable!), cucumber-scented root (edible but harvest threatens plant)",
+      "lookalikes": [],
+      "lookalikeDifferences": "No lookalikes - unique tiered whorl structure makes ID certain"
+    },
+    "whereToLook": [
+      "Rich deciduous woods",
+      "Mountain forests",
+      "1000-3500 feet"
+    ],
+    "peakSeason": "May-June",
+    "catskillsLocations": [
+      "Rich forested slopes"
+    ]
   },
   {
     "id": "starflower",
     "commonName": "Starflower",
     "latinName": "Lysimachia borealis",
     "family": "Primulaceae",
-    "bloomMonths": [5, 6, 7],
-    "habitat": ["Cool woods", "Mountain forests"],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "habitat": [
+      "Cool woods",
+      "Mountain forests"
+    ],
     "elevation": "1500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633692",
     "description": "Delicate white star-shaped flowers (usually 7 petals) on thin stems. Whorl of lance-shaped leaves.",
     "rarity": "common",
-    "catskillsNotes": "Common in cool mountain forests. The number of petals often varies."
+    "catskillsNotes": "Common in cool mountain forests. The number of petals often varies.",
+    "identification": {
+      "height": "4-8 inches",
+      "leafShape": "Whorl of 5-7 lance-shaped leaves at stem top, 1.5-3 inches long, on thin delicate stem",
+      "flowerDescription": "Delicate white star-shaped flowers, USUALLY 7 PETALS (can vary 5-9), on thin stalks above leaf whorl",
+      "fruitSeed": "Small capsules",
+      "distinguishingFeatures": "Count the petals - usually 7! (unique). Whorl of leaves below flowers, very delicate appearance",
+      "lookalikes": [],
+      "lookalikeDifferences": "No obvious lookalikes - 7-petaled star flowers and leaf whorl are distinctive"
+    },
+    "whereToLook": [
+      "Cool woods",
+      "Mountain forests",
+      "1500-4000 feet"
+    ],
+    "peakSeason": "May-July",
+    "catskillsLocations": [
+      "Mountain forest trails",
+      "Cool wooded areas"
+    ]
   },
   {
     "id": "hobblebush",
     "commonName": "Hobblebush",
     "latinName": "Viburnum lantanoides",
     "family": "Adoxaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Mountain forests", "Cool ravines"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Mountain forests",
+      "Cool ravines"
+    ],
     "elevation": "1500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633718",
     "description": "Shrub with flat-topped flower clusters. Large leaves turn burgundy in fall. Sprawling branches can trip hikers.",
     "rarity": "common",
-    "catskillsNotes": "Branches root where they touch ground. Red berries turn black when ripe."
+    "catskillsNotes": "Branches root where they touch ground. Red berries turn black when ripe.",
+    "identification": {
+      "height": "3-10 feet (spreading shrub)",
+      "leafShape": "Large opposite heart-shaped leaves, 4-8 inches wide, finely toothed, prominent veins, turn burgundy/purple in fall",
+      "flowerDescription": "Flat-topped flower clusters with large showy sterile outer flowers (white, 1 inch) and small fertile inner flowers",
+      "fruitSeed": "Red berries turning black when ripe, in flat clusters",
+      "distinguishingFeatures": "Large heart-shaped leaves, flat flower clusters (like hydrangea), sprawling branches that root at tips and can trip hikers (gives name!)",
+      "lookalikes": [
+        "Maple-leaved Viburnum"
+      ],
+      "lookalikeDifferences": "Hobblebush has larger leaves and sprawling habit; Maple-leaved Viburnum is more upright with smaller leaves"
+    },
+    "whereToLook": [
+      "Mountain forests",
+      "Cool ravines",
+      "1500-4000 feet"
+    ],
+    "peakSeason": "May-June",
+    "catskillsLocations": [
+      "Mountain trails",
+      "Ravine forests"
+    ]
   },
   {
     "id": "red-baneberry",
     "commonName": "Red Baneberry",
     "latinName": "Actaea rubra",
     "family": "Ranunculaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Rich woods", "Mountain forests", "Rocky slopes"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Rich woods",
+      "Mountain forests",
+      "Rocky slopes"
+    ],
     "elevation": "1200-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633477",
     "description": "Fluffy white flower clusters. Produces clusters of bright red berries. All parts are toxic.",
     "rarity": "common",
-    "catskillsNotes": "Also called Doll's Eyes (white form). Berries are highly poisonous."
+    "catskillsNotes": "Also called Doll's Eyes (white form). Berries are highly poisonous.",
+    "identification": {
+      "height": "1-2 feet",
+      "leafShape": "Large compound leaves, twice divided into sharply toothed leaflets, 2-4 inches long",
+      "flowerDescription": "Fluffy white flower clusters, dense raceme 2-4 inches long, many stamens give fuzzy appearance",
+      "fruitSeed": "Bright RED berries in clusters on thick red stalks (white form called Doll's Eyes). ALL PARTS HIGHLY TOXIC!",
+      "distinguishingFeatures": "Fluffy white flowers, RED berries on RED stalks (or white berries on red stalks - Doll's Eyes). POISON WARNING!",
+      "lookalikes": [
+        "White Baneberry (Doll's Eyes)",
+        "Black Cohosh"
+      ],
+      "lookalikeDifferences": "Red Baneberry: red berries on red stalks. White: white berries on red stalks. Black Cohosh: different flowers, no berries"
+    },
+    "whereToLook": [
+      "Rich woods",
+      "Mountain forests",
+      "Rocky slopes 1200-3500 feet"
+    ],
+    "peakSeason": "May-June for flowers, August-September for berries",
+    "catskillsLocations": [
+      "Forested trails",
+      "Rich wooded areas"
+    ]
   },
   {
     "id": "wood-sorrel",
     "commonName": "Wood Sorrel",
     "latinName": "Oxalis montana",
     "family": "Oxalidaceae",
-    "bloomMonths": [6, 7, 8],
-    "habitat": ["Cool coniferous woods", "Mossy areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "habitat": [
+      "Cool coniferous woods",
+      "Mossy areas"
+    ],
     "elevation": "2000-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633662",
     "description": "White flowers with pink veining. Clover-like leaves that fold at night. Lemony-sour taste.",
     "rarity": "common",
-    "catskillsNotes": "Leaves contain oxalic acid. Safe in small quantities but avoid excessive consumption."
+    "catskillsNotes": "Leaves contain oxalic acid. Safe in small quantities but avoid excessive consumption.",
+    "identification": {
+      "height": "3-6 inches",
+      "leafShape": "Clover-like leaves with 3 heart-shaped leaflets, fold down at night and in rain, delicate",
+      "flowerDescription": "White flowers with pink veining, 5 petals, 0.5-0.75 inch across, nodding",
+      "fruitSeed": "Explosive capsules that shoot seeds when ripe or touched",
+      "distinguishingFeatures": "Clover leaves that FOLD AT NIGHT (nyctinastic movement), lemony-sour taste (oxalic acid), grows in cool sites",
+      "lookalikes": [
+        "Yellow Wood Sorrel",
+        "Shamrock"
+      ],
+      "lookalikeDifferences": "Wood Sorrel has white/pink flowers in cool forests; Yellow has yellow flowers in sunny areas"
+    },
+    "whereToLook": [
+      "Cool coniferous woods",
+      "Mossy areas",
+      "2000-4000 feet"
+    ],
+    "peakSeason": "June-August",
+    "catskillsLocations": [
+      "High elevation forests",
+      "Mossy forest floor under conifers"
+    ]
   },
   {
     "id": "partridgeberry",
     "commonName": "Partridgeberry",
     "latinName": "Mitchella repens",
     "family": "Rubiaceae",
-    "bloomMonths": [6, 7],
-    "habitat": ["Woods", "Forest floor"],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "habitat": [
+      "Woods",
+      "Forest floor"
+    ],
     "elevation": "800-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633598",
     "description": "Creeping evergreen with paired white flowers. Produces bright red berries that persist through winter.",
     "rarity": "common",
-    "catskillsNotes": "Each berry is formed from two flowers. Edible but dry and tasteless."
+    "catskillsNotes": "Each berry is formed from two flowers. Edible but dry and tasteless.",
+    "identification": {
+      "height": "Creeping groundcover, stems 1-3 inches tall",
+      "leafShape": "Small evergreen opposite leaves, rounded, 0.25-0.5 inch, shiny dark green",
+      "flowerDescription": "Paired white tubular flowers (ALWAYS in pairs!), 4-lobed, 0.5 inch, fragrant",
+      "fruitSeed": "Bright red berry formed from TWO FUSED flowers (has 2 'eyes' or dots). Persists through winter. Edible but dry/tasteless",
+      "distinguishingFeatures": "Creeping evergreen, paired flowers (diagnostic!), berries with 2 'eyes' from flower fusion",
+      "lookalikes": [
+        "Wintergreen",
+        "Teaberry"
+      ],
+      "lookalikeDifferences": "Partridgeberry is creeping with paired flowers and 2-eyed berries; Wintergreen is more upright with single flowers"
+    },
+    "whereToLook": [
+      "Woods and forest floor",
+      "800-3000 feet"
+    ],
+    "peakSeason": "June-July for flowers, berries persist through winter",
+    "catskillsLocations": [
+      "Forest floor carpets",
+      "Wooded trails"
+    ]
   },
   {
     "id": "pink-turtlehead",
     "commonName": "Pink Turtlehead",
     "latinName": "Chelone lyonii",
     "family": "Plantaginaceae",
-    "bloomMonths": [8, 9],
-    "habitat": ["Wet meadows", "Stream banks", "Mountain wetlands"],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "habitat": [
+      "Wet meadows",
+      "Stream banks",
+      "Mountain wetlands"
+    ],
     "elevation": "1500-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633543",
     "description": "Pink snapdragon-like flowers resembling turtle heads. Opposite leaves. Prefers wet soils.",
     "rarity": "uncommon",
-    "catskillsNotes": "Host plant for Baltimore Checkerspot butterfly larvae."
+    "catskillsNotes": "Host plant for Baltimore Checkerspot butterfly larvae.",
+    "identification": {
+      "height": "2-3 feet",
+      "leafShape": "Opposite lance-shaped leaves, 3-6 inches long, sharply toothed",
+      "flowerDescription": "Pink snapdragon-like flowers resembling turtle heads, 1-1.5 inches long, in dense terminal spike",
+      "fruitSeed": "Small capsules with flat seeds",
+      "distinguishingFeatures": "Pink turtle-head-shaped flowers, wet habitat requirement, host for Baltimore Checkerspot butterfly",
+      "lookalikes": [
+        "White Turtlehead"
+      ],
+      "lookalikeDifferences": "Pink Turtlehead has pink flowers; White has white/pale pink flowers. Otherwise very similar"
+    },
+    "whereToLook": [
+      "Wet meadows",
+      "Stream banks",
+      "Mountain wetlands 1500-3500 feet"
+    ],
+    "peakSeason": "August-September",
+    "catskillsLocations": [
+      "Mountain wet meadows",
+      "Stream corridors"
+    ]
   },
   {
     "id": "turks-cap-lily",
     "commonName": "Turk's Cap Lily",
     "latinName": "Lilium superbum",
     "family": "Liliaceae",
-    "bloomMonths": [7, 8],
-    "habitat": ["Wet meadows", "Swamps", "Stream banks"],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "habitat": [
+      "Wet meadows",
+      "Swamps",
+      "Stream banks"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633589",
     "description": "Tall lily with orange flowers that have strongly recurved petals. Dark spots. Can reach 8 feet.",
     "rarity": "uncommon",
-    "catskillsNotes": "Spectacular when found. Prefers wet, sunny openings."
+    "catskillsNotes": "Spectacular when found. Prefers wet, sunny openings.",
+    "identification": {
+      "height": "3-8 feet (very tall!)",
+      "leafShape": "Whorled lance-shaped leaves in tiers along stem, 3-6 inches long",
+      "flowerDescription": "Orange flowers with strongly RECURVED petals (rolled back), dark spots, 3-4 inches across, many flowers per stem",
+      "fruitSeed": "Capsules with flat seeds",
+      "distinguishingFeatures": "Very tall (up to 8 feet!), orange flowers with STRONGLY RECURVED petals (like a turban), wet habitat",
+      "lookalikes": [
+        "Wood Lily",
+        "Canada Lily"
+      ],
+      "lookalikeDifferences": "Turk's Cap: very tall, strongly recurved petals, wet sites. Wood: shorter, upfacing, dry sites"
+    },
+    "whereToLook": [
+      "Wet meadows",
+      "Swamps",
+      "Stream banks",
+      "500-2500 feet"
+    ],
+    "peakSeason": "July-August",
+    "catskillsLocations": [
+      "Wet sunny openings",
+      "Stream meadows"
+    ]
   },
   {
     "id": "wood-lily",
     "commonName": "Wood Lily",
     "latinName": "Lilium philadelphicum",
     "family": "Liliaceae",
-    "bloomMonths": [6, 7],
-    "habitat": ["Dry woods", "Clearings", "Mountain meadows"],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "habitat": [
+      "Dry woods",
+      "Clearings",
+      "Mountain meadows"
+    ],
     "elevation": "1000-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633588",
     "description": "Upward-facing orange-red flowers with dark spots. More compact than Turk's Cap. Prefers drier sites.",
     "rarity": "rare",
-    "catskillsNotes": "Becoming uncommon due to deer browsing and collection. Never pick."
+    "catskillsNotes": "Becoming uncommon due to deer browsing and collection. Never pick.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Whorled or alternate lance-shaped leaves, 2-4 inches long",
+      "flowerDescription": "Orange-red UPWARD-FACING flowers with dark spots, 2-3 inches across, 1-3 flowers per stem",
+      "fruitSeed": "Capsules",
+      "distinguishingFeatures": "Upward-facing (not nodding) orange-red flowers, shorter than Turk's Cap, dry habitat, RARE - never pick!",
+      "lookalikes": [
+        "Turk's Cap Lily"
+      ],
+      "lookalikeDifferences": "Wood Lily: upward-facing flowers, shorter, dry sites. Turk's Cap: recurved petals, tall, wet sites"
+    },
+    "whereToLook": [
+      "Dry woods",
+      "Clearings",
+      "Mountain meadows",
+      "1000-3500 feet"
+    ],
+    "peakSeason": "June-July",
+    "catskillsLocations": [
+      "Dry clearings",
+      "Mountain meadows"
+    ]
   },
   {
     "id": "round-lobed-hepatica",
     "commonName": "Round-lobed Hepatica",
     "latinName": "Hepatica americana",
     "family": "Ranunculaceae",
-    "bloomMonths": [3, 4, 5],
-    "habitat": ["Deciduous woods", "Rocky slopes"],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "habitat": [
+      "Deciduous woods",
+      "Rocky slopes"
+    ],
     "elevation": "800-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633501",
     "description": "Similar to sharp-lobed hepatica but with rounded leaf lobes. Flowers white, pink, blue, or purple.",
     "rarity": "common",
-    "catskillsNotes": "Often found growing alongside sharp-lobed hepatica in mixed forests."
+    "catskillsNotes": "Often found growing alongside sharp-lobed hepatica in mixed forests.",
+    "identification": {
+      "height": "4-6 inches",
+      "leafShape": "Three-lobed evergreen leaves with ROUNDED lobes, 1-3 inches wide, leathery, purple-tinged beneath",
+      "flowerDescription": "Delicate flowers on hairy stalks, 0.5-1 inch, variable colors (white/pink/blue/purple), 6-10 sepals",
+      "fruitSeed": "Small fuzzy achenes",
+      "distinguishingFeatures": "Very early bloomer, ROUNDED (not pointed) leaf lobes, often grows WITH Sharp-lobed Hepatica - check lobes!",
+      "lookalikes": [
+        "Sharp-lobed Hepatica"
+      ],
+      "lookalikeDifferences": "Round-lobed has ROUNDED leaf lobes; Sharp-lobed has POINTED lobes. Often grow together - leaf tips are key!"
+    },
+    "whereToLook": [
+      "Deciduous woods",
+      "Rocky slopes",
+      "800-3000 feet"
+    ],
+    "peakSeason": "Late March-April",
+    "catskillsLocations": [
+      "Mixed hardwood forests",
+      "Rocky wooded slopes"
+    ]
   },
   {
     "id": "bellwort",
     "commonName": "Large-flowered Bellwort",
     "latinName": "Uvularia grandiflora",
     "family": "Colchicaceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Rich woods", "Slopes"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Rich woods",
+      "Slopes"
+    ],
     "elevation": "1000-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633712",
     "description": "Nodding yellow bell-shaped flowers. Perfoliate leaves (stem appears to pierce leaves).",
     "rarity": "common",
-    "catskillsNotes": "Young shoots edible like asparagus. Also called Merrybells."
+    "catskillsNotes": "Young shoots edible like asparagus. Also called Merrybells.",
+    "identification": {
+      "height": "8-18 inches",
+      "leafShape": "Perfoliate leaves (stem appears to pierce through leaf), 2-4 inches long, pale green",
+      "flowerDescription": "Nodding yellow bell-shaped flowers, 1-1.5 inches long, twisted petals, dangles beneath leaves",
+      "fruitSeed": "3-angled capsule",
+      "distinguishingFeatures": "Perfoliate leaves (stem through leaf - diagnostic!), nodding yellow bells, young shoots edible like asparagus",
+      "lookalikes": [
+        "Wild Oats (Uvularia sessilifolia)"
+      ],
+      "lookalikeDifferences": "Bellwort has perfoliate leaves; Wild Oats has sessile (clasping) leaves"
+    },
+    "whereToLook": [
+      "Rich woods",
+      "Slopes",
+      "1000-3000 feet"
+    ],
+    "peakSeason": "April-June",
+    "catskillsLocations": [
+      "Rich hardwood forests"
+    ]
   },
   {
     "id": "virginia-bluebells",
     "commonName": "Virginia Bluebells",
     "latinName": "Mertensia virginica",
     "family": "Boraginaceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Floodplains", "Rich woods", "Stream banks"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Floodplains",
+      "Rich woods",
+      "Stream banks"
+    ],
     "elevation": "500-2000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633597",
     "description": "Clusters of pink buds open to sky-blue tubular flowers. Dies back by midsummer.",
     "rarity": "uncommon",
-    "catskillsNotes": "Prefers lower elevation valleys. Spring ephemeral that disappears after blooming."
+    "catskillsNotes": "Prefers lower elevation valleys. Spring ephemeral that disappears after blooming.",
+    "identification": {
+      "height": "1-2 feet",
+      "leafShape": "Smooth oval leaves, 2-6 inches long, pale green, alternate on stem",
+      "flowerDescription": "Pink buds open to SKY-BLUE tubular flowers in nodding clusters, 1 inch long, 5-lobed",
+      "fruitSeed": "Nutlets",
+      "distinguishingFeatures": "Pink buds opening to sky-blue flowers (color change!), spring ephemeral (disappears by summer), prefers floodplains",
+      "lookalikes": [
+        "Garden forget-me-nots"
+      ],
+      "lookalikeDifferences": "Virginia Bluebells are much larger, tubular (vs flat), and are spring ephemerals"
+    },
+    "whereToLook": [
+      "Floodplains",
+      "Rich woods",
+      "Stream banks",
+      "500-2000 feet"
+    ],
+    "peakSeason": "April-May, completely dies back by midsummer",
+    "catskillsLocations": [
+      "Lower elevation river valleys",
+      "Floodplain forests"
+    ]
   },
   {
     "id": "nodding-trillium",
     "commonName": "Nodding Trillium",
     "latinName": "Trillium cernuum",
     "family": "Melanthiaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Swamps", "Wet woods", "Stream banks"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Swamps",
+      "Wet woods",
+      "Stream banks"
+    ],
     "elevation": "1000-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633533",
     "description": "White flower nods beneath the leaves on a strongly recurved pedicel. Prefers wetter sites.",
     "rarity": "uncommon",
-    "catskillsNotes": "Less common than red or white trillium. Look in swampy areas."
+    "catskillsNotes": "Less common than red or white trillium. Look in swampy areas.",
+    "identification": {
+      "height": "8-18 inches",
+      "leafShape": "Three ovate leaves in whorl, 2-5 inches long, petioled",
+      "flowerDescription": "WHITE flower on STRONGLY RECURVED pedicel that nods BENEATH leaves, 1-1.5 inches, 3 petals",
+      "fruitSeed": "Red berry",
+      "distinguishingFeatures": "White flower on strongly recurved/bent pedicel hanging BENEATH leaves (diagnostic!), prefers wet areas",
+      "lookalikes": [
+        "Red Trillium",
+        "White Trillium"
+      ],
+      "lookalikeDifferences": "Nodding: white flower on recurved pedicel beneath leaves. Red: maroon, odor. White: white above leaves"
+    },
+    "whereToLook": [
+      "Swamps",
+      "Wet woods",
+      "Stream banks",
+      "1000-3000 feet"
+    ],
+    "peakSeason": "May-June",
+    "catskillsLocations": [
+      "Swampy forest areas",
+      "Wet woodland depressions"
+    ]
   },
   {
     "id": "twinleaf",
     "commonName": "Twinleaf",
     "latinName": "Jeffersonia diphylla",
     "family": "Berberidaceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Rich woods", "Limestone areas"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Rich woods",
+      "Limestone areas"
+    ],
     "elevation": "800-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633580",
     "description": "White eight-petaled flowers. Distinctive leaves split into two halves. Rare in Catskills.",
     "rarity": "rare",
-    "catskillsNotes": "Limited to limestone-rich areas. Protected in some states."
+    "catskillsNotes": "Limited to limestone-rich areas. Protected in some states.",
+    "identification": {
+      "height": "6-14 inches",
+      "leafShape": "Unique leaf split into TWO HALVES (like butterfly wings), each half 2-4 inches long, on long petiole",
+      "flowerDescription": "White 8-petaled flower, 1 inch across, appears before leaves fully expand",
+      "fruitSeed": "Capsule opens like a hinged lid",
+      "distinguishingFeatures": "Unique TWIN-LOBED leaves (like butterfly, no other plant similar!), rare in Catskills, limestone areas only",
+      "lookalikes": [],
+      "lookalikeDifferences": "No lookalikes - twin-lobed leaf structure is completely unique"
+    },
+    "whereToLook": [
+      "Rich woods",
+      "Limestone areas",
+      "800-2500 feet"
+    ],
+    "peakSeason": "April-May",
+    "catskillsLocations": [
+      "Limited limestone-rich areas",
+      "Very rare in Catskills"
+    ]
   },
   {
     "id": "squirrel-corn",
     "commonName": "Squirrel Corn",
     "latinName": "Dicentra canadensis",
     "family": "Papaveraceae",
-    "bloomMonths": [4, 5],
-    "habitat": ["Rich woods", "Rocky slopes"],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "habitat": [
+      "Rich woods",
+      "Rocky slopes"
+    ],
     "elevation": "1000-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633556",
     "description": "Similar to Dutchman's Breeches but flowers are more heart-shaped. Yellow tubers resemble corn kernels.",
     "rarity": "common",
-    "catskillsNotes": "Often grows with Dutchman's Breeches. Fragrant flowers."
+    "catskillsNotes": "Often grows with Dutchman's Breeches. Fragrant flowers.",
+    "identification": {
+      "height": "6-12 inches",
+      "leafShape": "Finely divided fern-like gray-green leaves, twice compound, basal",
+      "flowerDescription": "White to pale pink HEART-SHAPED flowers (vs pantaloons), 0.5-0.75 inch, fragrant, in raceme",
+      "fruitSeed": "Small capsule, underground YELLOW TUBERS resembling corn kernels (give name)",
+      "distinguishingFeatures": "Heart-shaped flowers (not pantaloons!), fragrant (vs odorless), yellow corn-like tubers underground",
+      "lookalikes": [
+        "Dutchman's Breeches"
+      ],
+      "lookalikeDifferences": "Squirrel Corn: heart-shaped fragrant flowers, yellow tubers. Dutchman's: pantaloon-shaped, not fragrant"
+    },
+    "whereToLook": [
+      "Rich woods",
+      "Rocky slopes",
+      "1000-3000 feet"
+    ],
+    "peakSeason": "April-May, often grows WITH Dutchman's Breeches",
+    "catskillsLocations": [
+      "Rich forested slopes"
+    ]
   },
   {
     "id": "wild-leek",
     "commonName": "Wild Leek (Ramps)",
     "latinName": "Allium tricoccum",
     "family": "Amaryllidaceae",
-    "bloomMonths": [6, 7],
-    "habitat": ["Rich deciduous woods", "Mountain slopes"],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "habitat": [
+      "Rich deciduous woods",
+      "Mountain slopes"
+    ],
     "elevation": "1000-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633482",
     "description": "Broad leaves emerge in spring and die before white flower stalk appears. Strong onion-garlic odor.",
     "rarity": "common",
-    "catskillsNotes": "Highly sought as wild food but over-harvested in many areas. Harvest sustainably."
+    "catskillsNotes": "Highly sought as wild food but over-harvested in many areas. Harvest sustainably.",
+    "identification": {
+      "height": "6-15 inches",
+      "leafShape": "2-3 broad elliptic leaves, 6-12 inches long, emerge in early spring then DIE BACK before flowering",
+      "flowerDescription": "White flowers in umbel on leafless stalk (leaves GONE by flowering time!), late spring/summer",
+      "fruitSeed": "Small capsules with black seeds",
+      "distinguishingFeatures": "Strong onion-garlic odor (diagnostic!), leaves emerge early then disappear, flowers appear on bare stalk. WARNING: Often overharvested!",
+      "lookalikes": [
+        "False hellebore (TOXIC!)"
+      ],
+      "lookalikeDifferences": "Ramps: strong garlic smell, edible. False hellebore: NO SMELL, POISONOUS! Always smell-test!"
+    },
+    "whereToLook": [
+      "Rich deciduous woods",
+      "Mountain slopes",
+      "1000-3500 feet"
+    ],
+    "peakSeason": "April-May for leaves, June-July for flowers",
+    "catskillsLocations": [
+      "Rich hardwood forests",
+      "Mountain coves"
+    ]
   },
   {
     "id": "wild-sarsaparilla",
     "commonName": "Wild Sarsaparilla",
     "latinName": "Aralia nudicaulis",
     "family": "Araliaceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Dry to moist woods"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Dry to moist woods"
+    ],
     "elevation": "800-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633492",
     "description": "Compound leaves on separate stalks from flowers. Greenish flower clusters. Purple-black berries.",
     "rarity": "common",
-    "catskillsNotes": "Root was used as sarsaparilla substitute. Important wildlife food."
+    "catskillsNotes": "Root was used as sarsaparilla substitute. Important wildlife food.",
+    "identification": {
+      "height": "1-2 feet",
+      "leafShape": "Single large compound leaf on separate stalk from flowers, divided into 3-5 leaflets, each 2-5 inches",
+      "flowerDescription": "Greenish-white flowers in 2-7 round clusters (umbels) on separate stalk BELOW leaves",
+      "fruitSeed": "Purple-black berries in round clusters",
+      "distinguishingFeatures": "Compound leaf on one stalk, flowers on separate shorter stalk (unique arrangement), aromatic roots",
+      "lookalikes": [
+        "Ginseng"
+      ],
+      "lookalikeDifferences": "Sarsaparilla: compound leaf separate from flower stalk. Ginseng: different structure, much rarer"
+    },
+    "whereToLook": [
+      "Dry to moist woods",
+      "800-3500 feet"
+    ],
+    "peakSeason": "May-June for flowers, August-September for berries",
+    "catskillsLocations": [
+      "Woodland trails throughout"
+    ]
   },
   {
     "id": "indian-pipe",
     "commonName": "Indian Pipe",
     "latinName": "Monotropa uniflora",
     "family": "Ericaceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Shaded woods"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Shaded woods"
+    ],
     "elevation": "800-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633600",
     "description": "Pure white (no chlorophyll) plant that turns black when mature. Parasitic on mycorrhizal fungi.",
     "rarity": "common",
-    "catskillsNotes": "Also called Ghost Plant or Corpse Plant. Not a fungus despite appearance."
+    "catskillsNotes": "Also called Ghost Plant or Corpse Plant. Not a fungus despite appearance.",
+    "identification": {
+      "height": "4-10 inches",
+      "leafShape": "NO GREEN LEAVES - entire plant white/translucent (no chlorophyll!)",
+      "flowerDescription": "Single white/pinkish nodding pipe-shaped flower at stem tip, becomes erect in fruit",
+      "fruitSeed": "Capsule turns black when mature",
+      "distinguishingFeatures": "GHOSTLY WHITE (no chlorophyll!), parasitic on fungi (not a fungus!), turns BLACK when old or picked",
+      "lookalikes": [
+        "Pinesap (similar species)"
+      ],
+      "lookalikeDifferences": "Indian Pipe: white, single flower. Pinesap: yellowish-red, multiple flowers in cluster"
+    },
+    "whereToLook": [
+      "Shaded woods",
+      "800-3500 feet"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Deep forest shade",
+      "Among decaying matter"
+    ]
   },
   {
     "id": "wintergreen",
     "commonName": "Wintergreen",
     "latinName": "Gaultheria procumbens",
     "family": "Ericaceae",
-    "bloomMonths": [7, 8],
-    "habitat": ["Woods", "Clearings", "Mountain slopes"],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "habitat": [
+      "Woods",
+      "Clearings",
+      "Mountain slopes"
+    ],
     "elevation": "1000-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633575",
     "description": "Low evergreen shrub with white bell flowers. Bright red berries persist through winter. Leaves have wintergreen scent.",
     "rarity": "common",
-    "catskillsNotes": "Leaves and berries edible. Contains methyl salicylate (natural aspirin-like compound)."
+    "catskillsNotes": "Leaves and berries edible. Contains methyl salicylate (natural aspirin-like compound).",
+    "identification": {
+      "height": "3-6 inches (low evergreen shrub)",
+      "leafShape": "Evergreen oval leathery leaves, 1-2 inches, shiny, toothed, aromatic when crushed",
+      "flowerDescription": "White bell-shaped flowers, nodding, 0.25-0.5 inch",
+      "fruitSeed": "Bright RED berries persist through winter, aromatic WINTERGREEN scent when crushed",
+      "distinguishingFeatures": "Evergreen shiny leaves, WINTERGREEN SCENT (methyl salicylate), red berries, low shrub",
+      "lookalikes": [
+        "Partridgeberry"
+      ],
+      "lookalikeDifferences": "Wintergreen: more upright, single flowers, wintergreen scent. Partridgeberry: creeping, paired flowers"
+    },
+    "whereToLook": [
+      "Woods",
+      "Clearings",
+      "Mountain slopes",
+      "1000-4000 feet"
+    ],
+    "peakSeason": "July-August",
+    "catskillsLocations": [
+      "Forest floor",
+      "Cleared areas",
+      "Mountain trails"
+    ]
   },
   {
     "id": "pipsissewa",
     "commonName": "Pipsissewa",
     "latinName": "Chimaphila umbellata",
     "family": "Ericaceae",
-    "bloomMonths": [6, 7],
-    "habitat": ["Dry woods", "Pine forests"],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "habitat": [
+      "Dry woods",
+      "Pine forests"
+    ],
     "elevation": "1000-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633544",
     "description": "Evergreen with whorled leaves and pink waxy flowers. Also called Prince's Pine.",
     "rarity": "uncommon",
-    "catskillsNotes": "Used historically for urinary ailments. Prefers acidic soils."
+    "catskillsNotes": "Used historically for urinary ailments. Prefers acidic soils.",
+    "identification": {
+      "height": "4-10 inches",
+      "leafShape": "Evergreen whorled leaves, lance-shaped, 1-2.5 inches, leathery, toothed, dark green",
+      "flowerDescription": "Pink waxy nodding flowers in cluster, 0.5-0.75 inch, 5 petals",
+      "fruitSeed": "Round capsules",
+      "distinguishingFeatures": "Evergreen whorled leaves, pink waxy flowers, prefers dry acidic sites, also called Prince's Pine",
+      "lookalikes": [
+        "Shinleaf pyrola"
+      ],
+      "lookalikeDifferences": "Pipsissewa: whorled leaves, pink flowers. Pyrola: basal leaves, different flower structure"
+    },
+    "whereToLook": [
+      "Dry woods",
+      "Pine forests",
+      "1000-3500 feet"
+    ],
+    "peakSeason": "June-July",
+    "catskillsLocations": [
+      "Dry pine-oak forests"
+    ]
   },
   {
     "id": "pink-pyrola",
     "commonName": "Pink Pyrola",
     "latinName": "Pyrola asarifolia",
     "family": "Ericaceae",
-    "bloomMonths": [6, 7],
-    "habitat": ["Bogs", "Wet woods", "Mountain wetlands"],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "habitat": [
+      "Bogs",
+      "Wet woods",
+      "Mountain wetlands"
+    ],
     "elevation": "1500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633672",
     "description": "Pink to purple bell-shaped flowers on leafless stalk. Evergreen basal leaves.",
     "rarity": "uncommon",
-    "catskillsNotes": "More common at higher elevations in boggy areas."
+    "catskillsNotes": "More common at higher elevations in boggy areas.",
+    "identification": {
+      "height": "6-12 inches",
+      "leafShape": "Evergreen basal rosette of rounded leaves, 1-2.5 inches wide, shiny",
+      "flowerDescription": "Pink to purple bell-shaped nodding flowers on leafless stalk, 0.5 inch, in raceme",
+      "fruitSeed": "Round capsules",
+      "distinguishingFeatures": "Pink bells on leafless stalk, evergreen basal rosette, prefers cool wet sites",
+      "lookalikes": [
+        "Pipsissewa"
+      ],
+      "lookalikeDifferences": "Pyrola: basal rosette, pink bells on tall stalk. Pipsissewa: whorled stem leaves"
+    },
+    "whereToLook": [
+      "Bogs",
+      "Wet woods",
+      "Mountain wetlands",
+      "1500-4000 feet"
+    ],
+    "peakSeason": "June-July",
+    "catskillsLocations": [
+      "High elevation bogs",
+      "Cool wet forests"
+    ]
   },
   {
     "id": "sundew",
     "commonName": "Round-leaved Sundew",
     "latinName": "Drosera rotundifolia",
     "family": "Droseraceae",
-    "bloomMonths": [6, 7, 8],
-    "habitat": ["Bogs", "Sphagnum wetlands"],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "habitat": [
+      "Bogs",
+      "Sphagnum wetlands"
+    ],
     "elevation": "1500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633558",
     "description": "Carnivorous plant with sticky red tentacles on round leaves. Tiny white flowers on tall stalks.",
     "rarity": "uncommon",
-    "catskillsNotes": "Found in high-elevation bogs. Fascinating insect-catching adaptation."
+    "catskillsNotes": "Found in high-elevation bogs. Fascinating insect-catching adaptation.",
+    "identification": {
+      "height": "2-6 inches",
+      "leafShape": "Rosette of round leaves covered with RED GLANDULAR HAIRS (sticky tentacles), 0.25-0.5 inch wide",
+      "flowerDescription": "Tiny white flowers on leafless stalk, 4-6 inches tall",
+      "fruitSeed": "Small capsules",
+      "distinguishingFeatures": "CARNIVOROUS! Red sticky tentacles on leaves trap and digest insects, grows in bogs",
+      "lookalikes": [
+        "Other sundew species"
+      ],
+      "lookalikeDifferences": "Round-leaved has round leaves; other sundews have elongated leaves"
+    },
+    "whereToLook": [
+      "Bogs",
+      "Sphagnum wetlands",
+      "1500-4000 feet"
+    ],
+    "peakSeason": "June-August",
+    "catskillsLocations": [
+      "High elevation bogs with sphagnum moss"
+    ]
   },
   {
     "id": "pitcher-plant",
     "commonName": "Purple Pitcher Plant",
     "latinName": "Sarracenia purpurea",
     "family": "Sarraceniaceae",
-    "bloomMonths": [6, 7],
-    "habitat": ["Bogs", "Acidic wetlands"],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "habitat": [
+      "Bogs",
+      "Acidic wetlands"
+    ],
     "elevation": "1500-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633683",
     "description": "Carnivorous plant with pitcher-shaped leaves that trap insects. Large nodding purple flowers.",
     "rarity": "rare",
-    "catskillsNotes": "Limited to a few high-elevation bogs. Protected species."
+    "catskillsNotes": "Limited to a few high-elevation bogs. Protected species.",
+    "identification": {
+      "height": "8-24 inches",
+      "leafShape": "Pitcher-shaped leaves (modified to trap insects), 4-12 inches tall, purple-veined, half-filled with water",
+      "flowerDescription": "Large nodding PURPLE flower, 2-3 inches across, on leafless stalk",
+      "fruitSeed": "Capsules",
+      "distinguishingFeatures": "CARNIVOROUS! Pitcher leaves trap insects in water, large purple flower, very rare, PROTECTED",
+      "lookalikes": [],
+      "lookalikeDifferences": "No lookalikes - pitchers and purple flower are unique. Protected species!"
+    },
+    "whereToLook": [
+      "Bogs",
+      "Acidic wetlands",
+      "1500-3500 feet"
+    ],
+    "peakSeason": "June-July",
+    "catskillsLocations": [
+      "Very few high-elevation bogs - RARE, PROTECTED"
+    ]
   },
   {
     "id": "spotted-joe-pye-weed",
     "commonName": "Spotted Joe-Pye Weed",
     "latinName": "Eutrochium maculatum",
     "family": "Asteraceae",
-    "bloomMonths": [7, 8, 9],
-    "habitat": ["Wet meadows", "Stream banks", "Roadside ditches"],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Wet meadows",
+      "Stream banks",
+      "Roadside ditches"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633565",
     "description": "Tall plant (4-7 ft) with purple-spotted stems. Large domed clusters of dusty pink-purple flowers.",
     "rarity": "common",
-    "catskillsNotes": "Important late-season nectar source for monarchs and other butterflies."
+    "catskillsNotes": "Important late-season nectar source for monarchs and other butterflies.",
+    "identification": {
+      "height": "3-7 feet (very tall!)",
+      "leafShape": "Whorled leaves in groups of 3-5, lance-shaped, 4-8 inches, toothed",
+      "flowerDescription": "Large dome-shaped clusters of dusty PINK-PURPLE fuzzy flowers, 4-8 inches across",
+      "fruitSeed": "Small achenes with fluffy bristles",
+      "distinguishingFeatures": "VERY TALL (up to 7 feet!), PURPLE-SPOTTED stems (diagnostic!), huge pink flower domes, butterfly magnet",
+      "lookalikes": [
+        "Sweet Joe-Pye Weed"
+      ],
+      "lookalikeDifferences": "Spotted: purple-spotted stems. Sweet: unspotted stems, vanilla scent"
+    },
+    "whereToLook": [
+      "Wet meadows",
+      "Stream banks",
+      "Roadside ditches",
+      "500-3000 feet"
+    ],
+    "peakSeason": "July-September, critical for monarchs",
+    "catskillsLocations": [
+      "Wet meadows",
+      "Stream corridors"
+    ]
   },
   {
     "id": "new-england-aster",
     "commonName": "New England Aster",
     "latinName": "Symphyotrichum novae-angliae",
     "family": "Asteraceae",
-    "bloomMonths": [8, 9, 10],
-    "habitat": ["Meadows", "Roadsides", "Field edges"],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "habitat": [
+      "Meadows",
+      "Roadsides",
+      "Field edges"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633509",
     "description": "Purple-violet daisy-like flowers with yellow centers. Hairy stems and leaves. Can form large colonies.",
     "rarity": "common",
-    "catskillsNotes": "One of the last major nectar sources before frost. Critical for migrating monarchs."
+    "catskillsNotes": "One of the last major nectar sources before frost. Critical for migrating monarchs.",
+    "identification": {
+      "height": "2-6 feet",
+      "leafShape": "Alternate lance-shaped leaves, 2-5 inches, clasp stem, hairy",
+      "flowerDescription": "Purple-violet daisy-like flowers with yellow centers, 1-2 inches, many per plant",
+      "fruitSeed": "Achenes with fluffy bristles",
+      "distinguishingFeatures": "Hairy stems, purple-violet flowers, yellow centers, forms large colonies, CRITICAL fall nectar for monarchs",
+      "lookalikes": [
+        "Many other aster species"
+      ],
+      "lookalikeDifferences": "New England: hairy stems/leaves, clasping leaves, purple-violet. Others vary in color/hairiness"
+    },
+    "whereToLook": [
+      "Meadows",
+      "Roadsides",
+      "Field edges",
+      "500-3000 feet"
+    ],
+    "peakSeason": "August-October, one of last major nectar sources",
+    "catskillsLocations": [
+      "Meadows and roadsides throughout"
+    ]
   },
   {
     "id": "cardinal-flower",
     "commonName": "Cardinal Flower",
     "latinName": "Lobelia cardinalis",
     "family": "Campanulaceae",
-    "bloomMonths": [7, 8, 9],
-    "habitat": ["Stream banks", "Wet meadows", "Swamps"],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Stream banks",
+      "Wet meadows",
+      "Swamps"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633590",
     "description": "Brilliant scarlet tubular flowers. One of the reddest wildflowers. Hummingbird magnet.",
     "rarity": "uncommon",
-    "catskillsNotes": "Prefers wet, sunny locations along streams. Stunning when in bloom."
+    "catskillsNotes": "Prefers wet, sunny locations along streams. Stunning when in bloom.",
+    "identification": {
+      "height": "2-4 feet",
+      "leafShape": "Alternate lance-shaped leaves, 2-6 inches, toothed",
+      "flowerDescription": "Brilliant SCARLET tubular flowers in terminal spike, 1-1.5 inches, one of reddest wildflowers",
+      "fruitSeed": "Small capsules",
+      "distinguishingFeatures": "INTENSE SCARLET color (brightest red wildflower!), tubular flowers, hummingbird magnet",
+      "lookalikes": [
+        "Red Lobelia (garden escape)"
+      ],
+      "lookalikeDifferences": "Cardinal Flower is native with very specific bright red; garden types vary"
+    },
+    "whereToLook": [
+      "Stream banks",
+      "Wet meadows",
+      "Swamps",
+      "500-2500 feet"
+    ],
+    "peakSeason": "July-September",
+    "catskillsLocations": [
+      "Stream corridors in sun",
+      "Wet ditches"
+    ]
   },
   {
     "id": "great-blue-lobelia",
     "commonName": "Great Blue Lobelia",
     "latinName": "Lobelia siphilitica",
     "family": "Campanulaceae",
-    "bloomMonths": [8, 9],
-    "habitat": ["Stream banks", "Wet meadows", "Swamps"],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "habitat": [
+      "Stream banks",
+      "Wet meadows",
+      "Swamps"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633591",
     "description": "Tall spikes of bright blue tubular flowers. Often grows near Cardinal Flower.",
     "rarity": "uncommon",
-    "catskillsNotes": "Less common than Cardinal Flower. Prefers similar wet habitats."
+    "catskillsNotes": "Less common than Cardinal Flower. Prefers similar wet habitats.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Alternate lance-shaped leaves, 2-5 inches, slightly toothed",
+      "flowerDescription": "Bright BLUE tubular flowers in tall spike, 0.75-1 inch",
+      "fruitSeed": "Small capsules",
+      "distinguishingFeatures": "Bright blue color, often grows NEAR Cardinal Flower (blue and red together!), wet habitat",
+      "lookalikes": [
+        "Cardinal Flower"
+      ],
+      "lookalikeDifferences": "Great Blue: blue flowers. Cardinal: red flowers. Often grow together"
+    },
+    "whereToLook": [
+      "Stream banks",
+      "Wet meadows",
+      "Swamps",
+      "500-2500 feet"
+    ],
+    "peakSeason": "August-September",
+    "catskillsLocations": [
+      "Wet areas, often with Cardinal Flower"
+    ]
   },
   {
     "id": "black-eyed-susan",
     "commonName": "Black-eyed Susan",
     "latinName": "Rudbeckia hirta",
     "family": "Asteraceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Meadows", "Roadsides", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Meadows",
+      "Roadsides",
+      "Disturbed areas"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633680",
     "description": "Yellow daisy-like flowers with dark brown centers. Hairy leaves and stems.",
     "rarity": "common",
-    "catskillsNotes": "State flower of Maryland. Thrives in sunny disturbed areas."
+    "catskillsNotes": "State flower of Maryland. Thrives in sunny disturbed areas.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Alternate lance-shaped leaves, 3-6 inches, hairy, slightly toothed",
+      "flowerDescription": "Yellow daisy-like flowers with dark brown cone center, 2-3 inches across",
+      "fruitSeed": "Achenes",
+      "distinguishingFeatures": "Hairy stems, yellow rays with dark brown center cone, common in disturbed areas",
+      "lookalikes": [
+        "Brown-eyed Susan (Rudbeckia triloba)"
+      ],
+      "lookalikeDifferences": "Black-eyed: single large flower head. Brown-eyed: many smaller flower heads"
+    },
+    "whereToLook": [
+      "Meadows",
+      "Roadsides",
+      "Disturbed areas",
+      "500-3000 feet"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Sunny meadows",
+      "Roadsides throughout"
+    ]
   },
   {
     "id": "jewelweed",
     "commonName": "Spotted Touch-me-not",
     "latinName": "Impatiens capensis",
     "family": "Balsaminaceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Wet areas", "Stream banks", "Shaded seeps"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Wet areas",
+      "Stream banks",
+      "Shaded seeps"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633582",
     "description": "Orange tubular flowers with red spots. Seed pods explode when touched. Sap soothes poison ivy.",
     "rarity": "common",
-    "catskillsNotes": "Often grows alongside poison ivy. Crush stems to release anti-itch sap."
+    "catskillsNotes": "Often grows alongside poison ivy. Crush stems to release anti-itch sap.",
+    "identification": {
+      "height": "2-5 feet",
+      "leafShape": "Alternate oval leaves, 1-3 inches, toothed, pale beneath",
+      "flowerDescription": "Orange tubular flowers with RED SPOTS and spur, nodding, 1 inch",
+      "fruitSeed": "Seed pods EXPLODE when touched (touch-me-not!), shooting seeds",
+      "distinguishingFeatures": "Orange spotted flowers, EXPLOSIVE seed pods, succulent stems, sap SOOTHES poison ivy!",
+      "lookalikes": [
+        "Pale Jewelweed (yellow form)"
+      ],
+      "lookalikeDifferences": "Spotted: orange with spots. Pale: yellow without spots"
+    },
+    "whereToLook": [
+      "Wet areas",
+      "Stream banks",
+      "Shaded seeps",
+      "500-3000 feet"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Wet areas, often WITH poison ivy (natural remedy!)"
+    ]
   },
   {
     "id": "boneset",
     "commonName": "Boneset",
     "latinName": "Eupatorium perfoliatum",
     "family": "Asteraceae",
-    "bloomMonths": [7, 8, 9],
-    "habitat": ["Wet meadows", "Swamps", "Stream edges"],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Wet meadows",
+      "Swamps",
+      "Stream edges"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633563",
     "description": "Flat-topped clusters of white fuzzy flowers. Paired leaves appear to be pierced by the stem.",
     "rarity": "common",
-    "catskillsNotes": "Historically used to treat fevers. Attracts many pollinators."
+    "catskillsNotes": "Historically used to treat fevers. Attracts many pollinators.",
+    "identification": {
+      "height": "2-4 feet",
+      "leafShape": "Opposite leaves that appear PERFOLIATE (stem seems to pierce leaf), 4-8 inches, wrinkled",
+      "flowerDescription": "Flat-topped clusters of white fuzzy flowers",
+      "fruitSeed": "Achenes",
+      "distinguishingFeatures": "PERFOLIATE leaves (stem through leaf - diagnostic!), white fuzzy clusters, historically used for fevers",
+      "lookalikes": [
+        "Joe-Pye Weed"
+      ],
+      "lookalikeDifferences": "Boneset: white flowers, perfoliate leaves. Joe-Pye: pink flowers, whorled leaves"
+    },
+    "whereToLook": [
+      "Wet meadows",
+      "Swamps",
+      "Stream edges",
+      "500-2500 feet"
+    ],
+    "peakSeason": "July-September",
+    "catskillsLocations": [
+      "Wet meadows",
+      "Swampy edges"
+    ]
   },
   {
     "id": "fireweed",
     "commonName": "Fireweed",
     "latinName": "Chamerion angustifolium",
     "family": "Onagraceae",
-    "bloomMonths": [7, 8, 9],
-    "habitat": ["Clearings", "Burned areas", "Roadsides"],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Clearings",
+      "Burned areas",
+      "Roadsides"
+    ],
     "elevation": "1000-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633542",
     "description": "Tall spikes of magenta-pink flowers. Pioneer species after fires or disturbance.",
     "rarity": "common",
-    "catskillsNotes": "Colonizes cleared areas quickly. Young shoots edible like asparagus."
+    "catskillsNotes": "Colonizes cleared areas quickly. Young shoots edible like asparagus.",
+    "identification": {
+      "height": "3-7 feet",
+      "leafShape": "Lanceolate, alternate, 2-6\" long, willow-like, entire or finely toothed margins",
+      "flowerDescription": "Magenta-pink 4-petaled flowers in terminal raceme, 1\" wide, blooming bottom to top",
+      "fruitSeed": "Long slender capsules splitting to release silky white-plumed seeds",
+      "distinguishingFeatures": "Tall spike of magenta flowers, willow-like leaves, white cottony seeds in late summer",
+      "lookalikes": [
+        "Dame's Rocket",
+        "Purple Loosestrife",
+        "Willow Herb"
+      ],
+      "lookalikeDifferences": "Dame's Rocket: 4 petals in cross, blooms spring. Purple Loosestrife: dense spike, whorled leaves. Willow Herb: smaller"
+    },
+    "whereToLook": [
+      "Disturbed areas",
+      "Burns and clearcuts",
+      "Roadsides",
+      "Open slopes"
+    ],
+    "peakSeason": "July-September",
+    "catskillsLocations": [
+      "Recently burned areas",
+      "Logging roads",
+      "Slide Mtn summit area"
+    ]
   },
   {
     "id": "evening-primrose",
     "commonName": "Common Evening Primrose",
     "latinName": "Oenothera biennis",
     "family": "Onagraceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Roadsides", "Fields", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Roadsides",
+      "Fields",
+      "Disturbed areas"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633660",
     "description": "Large yellow flowers open in evening and wilt next morning. Sweet fragrance attracts night pollinators.",
     "rarity": "common",
-    "catskillsNotes": "Root edible first year. Seeds yield valuable oil."
+    "catskillsNotes": "Root edible first year. Seeds yield valuable oil.",
+    "identification": {
+      "height": "2-5 feet",
+      "leafShape": "Lanceolate, alternate, 4-8\" long, toothed, basal rosette first year",
+      "flowerDescription": "Yellow 4-petaled flowers 1-2\", open at dusk, X-shaped stigma",
+      "fruitSeed": "Elongated capsule with 4 chambers, many small seeds",
+      "distinguishingFeatures": "Opens at DUSK, sweet fragrance, X-shaped stigma, biennial rosette",
+      "lookalikes": [
+        "Sundrops",
+        "Other evening primroses"
+      ],
+      "lookalikeDifferences": "Sundrops: blooms day, perennial. Other primroses: smaller, habitat differences"
+    },
+    "whereToLook": [
+      "Dry fields",
+      "Roadsides",
+      "Disturbed ground",
+      "Sandy soils"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Valley roadsides",
+      "Old fields",
+      "Railroad beds"
+    ]
   },
   {
     "id": "tall-meadow-rue",
     "commonName": "Tall Meadow Rue",
     "latinName": "Thalictrum pubescens",
     "family": "Ranunculaceae",
-    "bloomMonths": [6, 7, 8],
-    "habitat": ["Wet meadows", "Stream banks", "Woods edges"],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "habitat": [
+      "Wet meadows",
+      "Stream banks",
+      "Woods edges"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633701",
     "description": "Tall (3-7 ft) with fluffy white flower clusters. Compound leaves resemble columbine.",
     "rarity": "common",
-    "catskillsNotes": "Dioecious (separate male and female plants). Male flowers more showy."
+    "catskillsNotes": "Dioecious (separate male and female plants). Male flowers more showy.",
+    "identification": {
+      "height": "3-8 feet",
+      "leafShape": "Compound, 3-4 times divided, leaflets rounded with 3 shallow lobes, bluish-green",
+      "flowerDescription": "White fluffy clusters (male) with drooping stamens or green female flowers, dioecious",
+      "fruitSeed": "Small achenes with veins, wind-dispersed",
+      "distinguishingFeatures": "Tall, feathery white flowers (males), columbine-like leaves, wet habitats",
+      "lookalikes": [
+        "Early Meadow Rue",
+        "Purple Meadow Rue",
+        "Columbine"
+      ],
+      "lookalikeDifferences": "Early: shorter, spring. Purple: purple flowers. Columbine: showy spurred flowers"
+    },
+    "whereToLook": [
+      "Wet meadows",
+      "Stream edges",
+      "Swamps",
+      "Floodplains"
+    ],
+    "peakSeason": "June-August",
+    "catskillsLocations": [
+      "Esopus Creek bottomlands",
+      "Beaver meadows",
+      "Wet forest edges"
+    ]
   },
   {
     "id": "bergamot",
     "commonName": "Wild Bergamot",
     "latinName": "Monarda fistulosa",
     "family": "Lamiaceae",
-    "bloomMonths": [7, 8],
-    "habitat": ["Dry meadows", "Clearings", "Roadsides"],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "habitat": [
+      "Dry meadows",
+      "Clearings",
+      "Roadsides"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633599",
     "description": "Lavender to pink tubular flowers in rounded heads. Aromatic mint-family leaves.",
     "rarity": "common",
-    "catskillsNotes": "Also called Bee Balm. Makes excellent tea. Attracts hummingbirds and butterflies."
+    "catskillsNotes": "Also called Bee Balm. Makes excellent tea. Attracts hummingbirds and butterflies.",
+    "identification": {
+      "height": "2-4 feet",
+      "leafShape": "Opposite, lanceolate to ovate, 2-4\", toothed, aromatic mint family",
+      "flowerDescription": "Lavender-pink tubular flowers in dense terminal head 1-2\", hairy",
+      "fruitSeed": "4 nutlets in calyx, typical mint family",
+      "distinguishingFeatures": "Lavender pompom flowers, minty oregano scent, square stem",
+      "lookalikes": [
+        "Bee Balm",
+        "Purple Bergamot"
+      ],
+      "lookalikeDifferences": "Bee Balm: scarlet flowers, wetlands. Purple Bergamot: darker purple, spotted flowers"
+    },
+    "whereToLook": [
+      "Dry fields",
+      "Open woods",
+      "Rocky slopes",
+      "Field edges"
+    ],
+    "peakSeason": "July-September",
+    "catskillsLocations": [
+      "Dry south-facing slopes",
+      "Old fields",
+      "Forest edges"
+    ]
   },
   {
     "id": "tall-bellflower",
     "commonName": "Tall Bellflower",
     "latinName": "Campanula americana",
     "family": "Campanulaceae",
-    "bloomMonths": [7, 8],
-    "habitat": ["Moist woods", "Stream banks", "Rich soil"],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "habitat": [
+      "Moist woods",
+      "Stream banks",
+      "Rich soil"
+    ],
     "elevation": "800-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633541",
     "description": "Tall (2-6 ft) spikes of flat blue star-shaped flowers. Unusual for a bellflower.",
     "rarity": "uncommon",
-    "catskillsNotes": "Annual or biennial. Dies after flowering and setting seed."
+    "catskillsNotes": "Annual or biennial. Dies after flowering and setting seed.",
+    "identification": {
+      "height": "3-6 feet",
+      "leafShape": "Alternate, lanceolate, 3-6\", toothed, long-pointed",
+      "flowerDescription": "Blue-violet bell-shaped flowers 1\", style curved, in leafy spike",
+      "fruitSeed": "3-5 chambered capsule opening by pores",
+      "distinguishingFeatures": "TALL, curved style extending beyond flower, leafy spike, annual",
+      "lookalikes": [
+        "Harebell",
+        "Creeping Bellflower"
+      ],
+      "lookalikeDifferences": "Harebell: short, nodding blue bells. Creeping: clustered flowers, aggressive spreader"
+    },
+    "whereToLook": [
+      "Rich woods",
+      "Stream banks",
+      "Moist thickets",
+      "Part shade"
+    ],
+    "peakSeason": "July-September",
+    "catskillsLocations": [
+      "Stream valleys",
+      "Rich forest edges",
+      "Woodland Valley"
+    ]
   },
   {
     "id": "turtlehead",
     "commonName": "White Turtlehead",
     "latinName": "Chelone glabra",
     "family": "Plantaginaceae",
-    "bloomMonths": [8, 9],
-    "habitat": ["Wet areas", "Stream banks", "Swamps"],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "habitat": [
+      "Wet areas",
+      "Stream banks",
+      "Swamps"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633542",
     "description": "White to pale pink snapdragon-like flowers. Host plant for Baltimore Checkerspot.",
     "rarity": "common",
-    "catskillsNotes": "Bumblebees are strong enough to force open the flowers."
+    "catskillsNotes": "Bumblebees are strong enough to force open the flowers.",
+    "identification": {
+      "height": "2-4 feet",
+      "leafShape": "Opposite, lanceolate, 3-6\", sharply toothed, dark green",
+      "flowerDescription": "White 2-lipped tubular flowers 1-1.5\", resembling turtle head, in terminal spike",
+      "fruitSeed": "Oval capsule with winged seeds",
+      "distinguishingFeatures": "Unique turtle-head shaped flowers, wet habitats, opposite leaves",
+      "lookalikes": [
+        "Pink Turtlehead",
+        "Obedient Plant"
+      ],
+      "lookalikeDifferences": "Pink: rose-pink flowers. Obedient: square stem, flowers stay when pushed"
+    },
+    "whereToLook": [
+      "Wet meadows",
+      "Stream banks",
+      "Swamps",
+      "Seeps"
+    ],
+    "peakSeason": "August-September",
+    "catskillsLocations": [
+      "Wetland edges",
+      "Stream sides",
+      "Beaver ponds"
+    ]
   },
   {
     "id": "asters-white-wood",
     "commonName": "White Wood Aster",
     "latinName": "Eurybia divaricata",
     "family": "Asteraceae",
-    "bloomMonths": [8, 9, 10],
-    "habitat": ["Dry woods", "Rocky slopes"],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "habitat": [
+      "Dry woods",
+      "Rocky slopes"
+    ],
     "elevation": "800-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633508",
     "description": "White daisy-like flowers with yellow centers that turn red-purple. Heart-shaped leaves.",
     "rarity": "common",
-    "catskillsNotes": "One of the most common woodland asters in fall."
+    "catskillsNotes": "One of the most common woodland asters in fall.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Alternate, heart-shaped, 2-5\", coarsely toothed, long petioles",
+      "flowerDescription": "White rays with yellow disk turning reddish, 1\", in open corymbs",
+      "fruitSeed": "Achenes with pappus, wind-dispersed",
+      "distinguishingFeatures": "HEART-SHAPED leaves, shade-tolerant, open branching pattern",
+      "lookalikes": [
+        "Other white asters",
+        "Calico Aster"
+      ],
+      "lookalikeDifferences": "Heart-shaped basal leaves distinctive; Calico has linear leaves and earlier bloom"
+    },
+    "whereToLook": [
+      "Dry woods",
+      "Rocky slopes",
+      "Shade",
+      "Forest understory"
+    ],
+    "peakSeason": "August-October",
+    "catskillsLocations": [
+      "Forest trails",
+      "Rocky woodland slopes",
+      "Mountain forests"
+    ]
   },
   {
     "id": "goldenrod-canada",
     "commonName": "Canada Goldenrod",
     "latinName": "Solidago canadensis",
     "family": "Asteraceae",
-    "bloomMonths": [7, 8, 9, 10],
-    "habitat": ["Fields", "Roadsides", "Disturbed areas"],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "habitat": [
+      "Fields",
+      "Roadsides",
+      "Disturbed areas"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633686",
     "description": "Tall with plume-like yellow flower clusters. Forms dense colonies via rhizomes.",
     "rarity": "common",
-    "catskillsNotes": "Does NOT cause hay fever (ragweed does). Important late-season pollinator plant."
+    "catskillsNotes": "Does NOT cause hay fever (ragweed does). Important late-season pollinator plant.",
+    "identification": {
+      "height": "2-5 feet",
+      "leafShape": "Alternate, lanceolate, 2-5\", toothed, 3-veined",
+      "flowerDescription": "Yellow flower heads in pyramidal terminal cluster, arching branches",
+      "fruitSeed": "Achenes with white pappus",
+      "distinguishingFeatures": "Pyramidal plume, arching branches, very common, NOT the allergy culprit",
+      "lookalikes": [
+        "Tall Goldenrod",
+        "Rough-stemmed Goldenrod",
+        "50+ goldenrod species"
+      ],
+      "lookalikeDifferences": "ID by: leaf venation, stem hairiness, inflorescence shape. Canada: 3-veined, nearly hairless"
+    },
+    "whereToLook": [
+      "Fields",
+      "Roadsides",
+      "Disturbed ground",
+      "Open areas"
+    ],
+    "peakSeason": "August-October",
+    "catskillsLocations": [
+      "Valley fields",
+      "Roadsides everywhere",
+      "Old pastures"
+    ]
   },
   {
     "id": "goldenrod-rough-stemmed",
     "commonName": "Rough-stemmed Goldenrod",
     "latinName": "Solidago rugosa",
     "family": "Asteraceae",
-    "bloomMonths": [8, 9, 10],
-    "habitat": ["Woods edges", "Fields", "Roadsides"],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "habitat": [
+      "Woods edges",
+      "Fields",
+      "Roadsides"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633687",
     "description": "Hairy stems. Arching flower branches. Wrinkled leaves.",
     "rarity": "common",
-    "catskillsNotes": "One of over 20 goldenrod species in the Catskills."
+    "catskillsNotes": "One of over 20 goldenrod species in the Catskills.",
+    "identification": {
+      "height": "2-6 feet",
+      "leafShape": "Alternate, lanceolate to ovate, 2-4\", sharply toothed, rough texture",
+      "flowerDescription": "Yellow flower heads in pyramidal cluster, recurved branches",
+      "fruitSeed": "Achenes with white pappus",
+      "distinguishingFeatures": "ROUGH hairy stem, sharply toothed leaves, zigzag stem pattern",
+      "lookalikes": [
+        "Canada Goldenrod",
+        "Other goldenrods"
+      ],
+      "lookalikeDifferences": "Rough: hairy stem obvious to touch. Canada: smooth. Check stem texture!"
+    },
+    "whereToLook": [
+      "Moist thickets",
+      "Stream edges",
+      "Meadows",
+      "Part shade"
+    ],
+    "peakSeason": "August-October",
+    "catskillsLocations": [
+      "Stream valleys",
+      "Moist meadows",
+      "Forest edges"
+    ]
   },
   {
     "id": "white-snakeroot",
     "commonName": "White Snakeroot",
     "latinName": "Ageratina altissima",
     "family": "Asteraceae",
-    "bloomMonths": [8, 9, 10],
-    "habitat": ["Woods", "Shaded areas"],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "habitat": [
+      "Woods",
+      "Shaded areas"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633481",
     "description": "White fuzzy flower clusters. Opposite heart-shaped leaves. Highly toxic.",
     "rarity": "common",
-    "catskillsNotes": "Caused 'milk sickness' when cows ate it and toxin entered milk. Killed Abraham Lincoln's mother."
+    "catskillsNotes": "Caused 'milk sickness' when cows ate it and toxin entered milk. Killed Abraham Lincoln's mother.",
+    "identification": {
+      "height": "1-4 feet",
+      "leafShape": "Opposite, heart-shaped to ovate, 3-6\", coarsely toothed, long petioles",
+      "flowerDescription": "White fuzzy flower heads in flat-topped clusters, no ray flowers",
+      "fruitSeed": "5-angled achenes with pappus",
+      "distinguishingFeatures": "Opposite heart-shaped leaves, white fuzzy clusters, POISONOUS to livestock",
+      "lookalikes": [
+        "Boneset",
+        "Upland Boneset"
+      ],
+      "lookalikeDifferences": "Boneset: leaves united around stem (perfoliate). Upland: similar but leaves not joined"
+    },
+    "whereToLook": [
+      "Rich woods",
+      "Rocky slopes",
+      "Forest edges",
+      "Shade"
+    ],
+    "peakSeason": "August-October",
+    "catskillsLocations": [
+      "Woodland trails",
+      "Forest understory",
+      "Shaded slopes"
+    ]
   },
   {
     "id": "ragwort",
     "commonName": "Golden Ragwort",
     "latinName": "Packera aurea",
     "family": "Asteraceae",
-    "bloomMonths": [5, 6],
-    "habitat": ["Wet areas", "Swamps", "Stream banks"],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "habitat": [
+      "Wet areas",
+      "Swamps",
+      "Stream banks"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633664",
     "description": "Bright yellow daisy-like flowers in clusters. Heart-shaped basal leaves.",
     "rarity": "common",
-    "catskillsNotes": "One of the earliest composite flowers to bloom."
+    "catskillsNotes": "One of the earliest composite flowers to bloom.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Basal leaves round-cordate, long-stemmed; stem leaves deeply divided",
+      "flowerDescription": "Bright golden-yellow daisy-like flowers, 8-12 rays, in flat-topped clusters",
+      "fruitSeed": "Achenes with white pappus",
+      "distinguishingFeatures": "Early spring bloomer, basal rosette overwinters, golden clusters, wet areas",
+      "lookalikes": [
+        "Other ragworts",
+        "Butterweed"
+      ],
+      "lookalikeDifferences": "Golden: basal leaves heart-shaped. Butterweed: southern, earlier bloom"
+    },
+    "whereToLook": [
+      "Wet meadows",
+      "Stream banks",
+      "Swamps",
+      "Moist woods"
+    ],
+    "peakSeason": "May-July",
+    "catskillsLocations": [
+      "Wetland edges",
+      "Stream valleys",
+      "Beaver meadows"
+    ]
   },
   {
     "id": "dandelion",
     "commonName": "Common Dandelion",
     "latinName": "Taraxacum officinale",
     "family": "Asteraceae",
-    "bloomMonths": [3, 4, 5, 6, 7, 8, 9, 10],
-    "habitat": ["Lawns", "Fields", "Disturbed areas"],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "habitat": [
+      "Lawns",
+      "Fields",
+      "Disturbed areas"
+    ],
     "elevation": "500-4000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633697",
     "description": "Yellow composite flower. Toothed leaves. Fluffy seed heads. Non-native but ubiquitous.",
     "rarity": "common",
-    "catskillsNotes": "Fully edible and nutritious. Important early nectar source. Introduced from Europe."
+    "catskillsNotes": "Fully edible and nutritious. Important early nectar source. Introduced from Europe.",
+    "identification": {
+      "height": "2-12 inches",
+      "leafShape": "Basal rosette, deeply toothed (lion's teeth), oblong, 2-10\"",
+      "flowerDescription": "Yellow composite head of ray flowers only, 1-2\", on hollow stem with milky sap",
+      "fruitSeed": "Achenes with white feathery pappus forming 'clock' seed head",
+      "distinguishingFeatures": "Hollow stem with milky sap, deeply toothed leaves, white seed 'clocks'",
+      "lookalikes": [
+        "Cat's Ear",
+        "Fall Dandelion",
+        "Hawkweeds"
+      ],
+      "lookalikeDifferences": "Cat's Ear: branched stem, hairy leaves. Fall: branched. Hawkweeds: hairy stems"
+    },
+    "whereToLook": [
+      "Lawns",
+      "Fields",
+      "Roadsides",
+      "Any disturbed soil"
+    ],
+    "peakSeason": "March-November (nearly continuous)",
+    "catskillsLocations": [
+      "Everywhere - ubiquitous weed"
+    ]
   },
   {
     "id": "ox-eye-daisy",
     "commonName": "Ox-eye Daisy",
     "latinName": "Leucanthemum vulgare",
     "family": "Asteraceae",
-    "bloomMonths": [6, 7, 8],
-    "habitat": ["Fields", "Roadsides", "Meadows"],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "habitat": [
+      "Fields",
+      "Roadsides",
+      "Meadows"
+    ],
     "elevation": "500-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633586",
     "description": "Classic white daisy with yellow center. Non-native but naturalized.",
     "rarity": "common",
-    "catskillsNotes": "Introduced from Europe. Can be invasive in some areas."
+    "catskillsNotes": "Introduced from Europe. Can be invasive in some areas.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Basal leaves spoon-shaped, stem leaves alternate, clasping, toothed",
+      "flowerDescription": "Classic white daisy, 15-30 white rays, yellow disk, 1-2\" wide",
+      "fruitSeed": "Ribbed achenes, no pappus",
+      "distinguishingFeatures": "Classic white daisy of fields, single flower per stem, dark green leaves",
+      "lookalikes": [
+        "Shasta Daisy",
+        "Other asters"
+      ],
+      "lookalikeDifferences": "Shasta: cultivar, larger. Asters: bloom fall, many flowers per plant"
+    },
+    "whereToLook": [
+      "Fields",
+      "Roadsides",
+      "Meadows",
+      "Disturbed areas"
+    ],
+    "peakSeason": "June-August",
+    "catskillsLocations": [
+      "Valley fields",
+      "Roadsides",
+      "Old pastures"
+    ]
   },
   {
     "id": "chicory",
     "commonName": "Chicory",
     "latinName": "Cichorium intybus",
     "family": "Asteraceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Roadsides", "Fields", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Roadsides",
+      "Fields",
+      "Disturbed areas"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633546",
     "description": "Sky-blue flowers that close by midday. Deep taproot. Introduced species.",
     "rarity": "common",
-    "catskillsNotes": "Root used as coffee substitute. Young leaves edible. Introduced from Europe."
+    "catskillsNotes": "Root used as coffee substitute. Young leaves edible. Introduced from Europe.",
+    "identification": {
+      "height": "2-5 feet",
+      "leafShape": "Basal rosette dandelion-like, stem leaves reduced and clasping",
+      "flowerDescription": "Sky-blue ragged flowers 1-1.5\", opening mornings only, along stem",
+      "fruitSeed": "Angular achenes, small pappus",
+      "distinguishingFeatures": "SKY-BLUE flowers, close by afternoon, tough wiry stems, roadside",
+      "lookalikes": [
+        "Blue Lettuce",
+        "Cornflower"
+      ],
+      "lookalikeDifferences": "Blue Lettuce: branched. Cornflower: cultivated, different flower structure"
+    },
+    "whereToLook": [
+      "Roadsides",
+      "Disturbed ground",
+      "Gravel",
+      "Waste areas"
+    ],
+    "peakSeason": "July-October",
+    "catskillsLocations": [
+      "Valley roadsides",
+      "Parking lots",
+      "Gravel areas"
+    ]
   },
   {
     "id": "daisy-fleabane",
     "commonName": "Daisy Fleabane",
     "latinName": "Erigeron annuus",
     "family": "Asteraceae",
-    "bloomMonths": [5, 6, 7, 8, 9],
-    "habitat": ["Fields", "Roadsides", "Disturbed areas"],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Fields",
+      "Roadsides",
+      "Disturbed areas"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633562",
     "description": "Small white to pale pink daisy-like flowers with many narrow rays. Hairy stems.",
     "rarity": "common",
-    "catskillsNotes": "Native pioneer species. Often confused with similar asters."
+    "catskillsNotes": "Native pioneer species. Often confused with similar asters.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Hairy, lower leaves toothed, upper entire, lanceolate to ovate",
+      "flowerDescription": "Many tiny white-pink rays (50-100!), yellow disk, 0.5-1\", in clusters",
+      "fruitSeed": "Achenes with pappus",
+      "distinguishingFeatures": "MANY THIN rays (50-100), hairy plant, clusters of small daisies",
+      "lookalikes": [
+        "Asters",
+        "Philadelphia Fleabane"
+      ],
+      "lookalikeDifferences": "Asters: fewer rays, fall bloom. Philadelphia: ligulate rays in 1 series"
+    },
+    "whereToLook": [
+      "Fields",
+      "Roadsides",
+      "Disturbed ground",
+      "Lawns"
+    ],
+    "peakSeason": "May-September",
+    "catskillsLocations": [
+      "Fields and roadsides everywhere"
+    ]
   },
   {
     "id": "queen-annes-lace",
     "commonName": "Queen Anne's Lace",
     "latinName": "Daucus carota",
     "family": "Apiaceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Fields", "Roadsides", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Fields",
+      "Roadsides",
+      "Disturbed areas"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633555",
     "description": "Flat-topped white flower clusters (umbels). Often has dark purple flower in center. Wild carrot.",
     "rarity": "common",
-    "catskillsNotes": "Ancestor of cultivated carrot. First-year root edible but tough. Can resemble poison hemlock—be certain of ID."
+    "catskillsNotes": "Ancestor of cultivated carrot. First-year root edible but tough. Can resemble poison hemlock\u2014be certain of ID.",
+    "identification": {
+      "height": "2-4 feet",
+      "leafShape": "Fernlike, finely divided 2-3 times, carrot family",
+      "flowerDescription": "White flat-topped umbel 3-5\", often with single purple flower in center",
+      "fruitSeed": "Ribbed seeds curl inward forming 'bird's nest'",
+      "distinguishingFeatures": "Flat white lace umbel, purple center dot, carrot smell, curls into nest",
+      "lookalikes": [
+        "Poison Hemlock",
+        "Water Hemlock",
+        "Yarrow"
+      ],
+      "lookalikeDifferences": "Hemlocks: purple-spotted stems, DEADLY. Yarrow: feathery leaves, flat head"
+    },
+    "whereToLook": [
+      "Fields",
+      "Roadsides",
+      "Meadows",
+      "Disturbed areas"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Valley fields everywhere",
+      "Roadsides"
+    ]
   },
   {
     "id": "yarrow",
     "commonName": "Common Yarrow",
     "latinName": "Achillea millefolium",
     "family": "Asteraceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Fields", "Roadsides", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Fields",
+      "Roadsides",
+      "Disturbed areas"
+    ],
     "elevation": "500-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633476",
     "description": "Flat-topped white (sometimes pink) flower clusters. Finely divided fern-like aromatic leaves.",
     "rarity": "common",
-    "catskillsNotes": "Traditional wound herb (stops bleeding). Native and introduced varieties."
+    "catskillsNotes": "Traditional wound herb (stops bleeding). Native and introduced varieties.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Feathery, finely divided 2-3 times, fernlike, aromatic, alternate",
+      "flowerDescription": "White (sometimes pink) flat-topped clusters of tiny flower heads",
+      "fruitSeed": "Flattened achenes, no pappus",
+      "distinguishingFeatures": "Feathery leaves, aromatic, flat white clusters, wooly stems",
+      "lookalikes": [
+        "Queen Anne's Lace",
+        "Tansy"
+      ],
+      "lookalikeDifferences": "QAL: umbel structure, purple dot. Tansy: yellow button flowers"
+    },
+    "whereToLook": [
+      "Fields",
+      "Roadsides",
+      "Lawns",
+      "Dry areas"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Fields and roadsides throughout"
+    ]
   },
   {
     "id": "butter-and-eggs",
     "commonName": "Butter-and-eggs",
     "latinName": "Linaria vulgaris",
     "family": "Plantaginaceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Roadsides", "Fields", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Roadsides",
+      "Fields",
+      "Disturbed areas"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633589",
     "description": "Yellow and orange snapdragon-like flowers. Narrow leaves. Introduced species.",
     "rarity": "common",
-    "catskillsNotes": "Also called Toadflax. Can be invasive. Introduced from Europe."
+    "catskillsNotes": "Also called Toadflax. Can be invasive. Introduced from Europe.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Linear, alternate, crowded, 1-3\", grass-like, blue-green",
+      "flowerDescription": "Yellow and orange snapdragon-like flowers, long spur, in spike",
+      "fruitSeed": "Oval capsule with many winged seeds",
+      "distinguishingFeatures": "Yellow snapdragon with orange 'lips', long spur, grass-like leaves",
+      "lookalikes": [
+        "Toadflax species",
+        "Snapdragons"
+      ],
+      "lookalikeDifferences": "This IS common toadflax. Other toadflax: smaller or different colors"
+    },
+    "whereToLook": [
+      "Roadsides",
+      "Fields",
+      "Disturbed ground",
+      "Gravel"
+    ],
+    "peakSeason": "June-October",
+    "catskillsLocations": [
+      "Roadsides everywhere",
+      "Gravel areas"
+    ]
   },
   {
     "id": "vetch",
     "commonName": "Common Vetch",
     "latinName": "Vicia sativa",
     "family": "Fabaceae",
-    "bloomMonths": [5, 6, 7, 8],
-    "habitat": ["Fields", "Roadsides", "Disturbed areas"],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "habitat": [
+      "Fields",
+      "Roadsides",
+      "Disturbed areas"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633716",
     "description": "Purple pea-like flowers. Climbing vine with tendrils. Nitrogen-fixing legume.",
     "rarity": "common",
-    "catskillsNotes": "Introduced cover crop that has naturalized. Fixes nitrogen in soil."
+    "catskillsNotes": "Introduced cover crop that has naturalized. Fixes nitrogen in soil.",
+    "identification": {
+      "height": "Climbing, 2-4 feet",
+      "leafShape": "Pinnately compound, 8-12 leaflets, tendrils at tips for climbing",
+      "flowerDescription": "Purple-blue pea flowers in one-sided raceme, 0.5\"",
+      "fruitSeed": "Pea-like pod turning black when mature",
+      "distinguishingFeatures": "Climbing with tendrils, compound leaves, purple pea flowers",
+      "lookalikes": [
+        "Crown Vetch",
+        "Sweet Pea",
+        "Other vetches"
+      ],
+      "lookalikeDifferences": "Crown: pink-white, different leaf pattern. Sweet Pea: larger, fragrant"
+    },
+    "whereToLook": [
+      "Fields",
+      "Roadsides",
+      "Meadows",
+      "Thickets"
+    ],
+    "peakSeason": "May-August",
+    "catskillsLocations": [
+      "Fields and roadsides"
+    ]
   },
   {
     "id": "red-clover",
     "commonName": "Red Clover",
     "latinName": "Trifolium pratense",
     "family": "Fabaceae",
-    "bloomMonths": [5, 6, 7, 8, 9],
-    "habitat": ["Fields", "Roadsides", "Meadows"],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Fields",
+      "Roadsides",
+      "Meadows"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633708",
     "description": "Pink to magenta pom-pom flowers. Leaves often have white V-marking. Introduced legume.",
     "rarity": "common",
-    "catskillsNotes": "Important forage crop. Flowers make tasty tea. Introduced from Europe."
+    "catskillsNotes": "Important forage crop. Flowers make tasty tea. Introduced from Europe.",
+    "identification": {
+      "height": "6-24 inches",
+      "leafShape": "Trifoliate (3 leaflets), oval with white V-mark, slightly hairy",
+      "flowerDescription": "Red-purple pompom flower head, 1\", many tiny pea flowers",
+      "fruitSeed": "Tiny pods inside dried flower head, 1-2 seeds each",
+      "distinguishingFeatures": "Red-purple pompom, white V on leaves, hairy, sweet scent",
+      "lookalikes": [
+        "White Clover",
+        "Alsike Clover"
+      ],
+      "lookalikeDifferences": "White: white flowers, creeping. Alsike: pink-white, no leaf marks"
+    },
+    "whereToLook": [
+      "Fields",
+      "Lawns",
+      "Roadsides",
+      "Meadows"
+    ],
+    "peakSeason": "May-September",
+    "catskillsLocations": [
+      "Fields everywhere",
+      "Common agricultural escape"
+    ]
   },
   {
     "id": "white-clover",
     "commonName": "White Clover",
     "latinName": "Trifolium repens",
     "family": "Fabaceae",
-    "bloomMonths": [5, 6, 7, 8, 9, 10],
-    "habitat": ["Lawns", "Fields", "Roadsides"],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "habitat": [
+      "Lawns",
+      "Fields",
+      "Roadsides"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633709",
     "description": "White (sometimes pink-tinged) pom-pom flowers. Creeping stems root at nodes.",
     "rarity": "common",
-    "catskillsNotes": "Excellent lawn alternative. Flowers very attractive to bees. Introduced from Europe."
+    "catskillsNotes": "Excellent lawn alternative. Flowers very attractive to bees. Introduced from Europe.",
+    "identification": {
+      "height": "4-10 inches, creeping",
+      "leafShape": "Trifoliate (3 leaflets), oval, often with white marks, smooth",
+      "flowerDescription": "White round pompom flower head, 0.5-1\", on long stalk",
+      "fruitSeed": "Small pods inside dried head, 3-6 seeds",
+      "distinguishingFeatures": "CREEPING habit, white pompoms, smooth leaves, everywhere",
+      "lookalikes": [
+        "Red Clover",
+        "Alsike Clover"
+      ],
+      "lookalikeDifferences": "Red: red-purple, erect, hairy. Alsike: pink-white, taller"
+    },
+    "whereToLook": [
+      "Lawns",
+      "Fields",
+      "Parks",
+      "Any grass"
+    ],
+    "peakSeason": "April-October",
+    "catskillsLocations": [
+      "Lawns and fields everywhere"
+    ]
   },
   {
     "id": "mullein",
     "commonName": "Common Mullein",
     "latinName": "Verbascum thapsus",
     "family": "Scrophulariaceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Roadsides", "Fields", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Roadsides",
+      "Fields",
+      "Disturbed areas"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633714",
     "description": "Tall flower spike (up to 7 ft). Yellow five-petaled flowers. Large woolly basal leaves.",
     "rarity": "common",
-    "catskillsNotes": "Introduced biennial. Leaves used historically for respiratory issues."
+    "catskillsNotes": "Introduced biennial. Leaves used historically for respiratory issues.",
+    "identification": {
+      "height": "3-7 feet",
+      "leafShape": "Large basal rosette (to 20\"), gray-green, very woolly, oblong",
+      "flowerDescription": "Yellow 5-petaled flowers 1\" on tall spike, opening few at a time",
+      "fruitSeed": "Many-seeded capsule",
+      "distinguishingFeatures": "HUGE woolly basal rosette, tall flower spike, biennial, felt-like leaves",
+      "lookalikes": [
+        "Moth Mullein",
+        "Other mulleins"
+      ],
+      "lookalikeDifferences": "Moth: smaller, smooth leaves, flowers on branches. This: huge woolly rosette"
+    },
+    "whereToLook": [
+      "Roadsides",
+      "Disturbed ground",
+      "Gravel",
+      "Dry fields"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Roadsides",
+      "Disturbed areas"
+    ]
   },
   {
     "id": "st-johns-wort",
     "commonName": "Common St. John's Wort",
     "latinName": "Hypericum perforatum",
     "family": "Hypericaceae",
-    "bloomMonths": [6, 7, 8],
-    "habitat": ["Fields", "Roadsides", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "habitat": [
+      "Fields",
+      "Roadsides",
+      "Disturbed areas"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633581",
     "description": "Bright yellow five-petaled flowers. Leaves appear perforated (translucent dots). Introduced.",
     "rarity": "common",
-    "catskillsNotes": "Used for depression and anxiety. Can cause photosensitivity. Introduced from Europe."
+    "catskillsNotes": "Used for depression and anxiety. Can cause photosensitivity. Introduced from Europe.",
+    "identification": {
+      "height": "1-3 feet",
+      "leafShape": "Opposite, oblong, 0.5-2\", sessile, translucent dots (hold to light!)",
+      "flowerDescription": "Bright yellow 5-petaled flowers 1\", many stamens, black dots on petals",
+      "fruitSeed": "3-parted capsule with many seeds",
+      "distinguishingFeatures": "Translucent leaf dots, black petal dots, bright yellow, many stamens",
+      "lookalikes": [
+        "Other St. John's Worts",
+        "Cinquefoils"
+      ],
+      "lookalikeDifferences": "Other SJW: smaller or different habitats. Cinquefoils: alternate leaves, 5 sepals visible"
+    },
+    "whereToLook": [
+      "Fields",
+      "Roadsides",
+      "Meadows",
+      "Pastures"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Fields and roadsides"
+    ]
   },
   {
     "id": "spotted-knapweed",
     "commonName": "Spotted Knapweed",
     "latinName": "Centaurea stoebe",
     "family": "Asteraceae",
-    "bloomMonths": [6, 7, 8, 9],
-    "habitat": ["Roadsides", "Fields", "Disturbed areas"],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Roadsides",
+      "Fields",
+      "Disturbed areas"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633543",
     "description": "Pink-purple thistle-like flowers. Spotted bracts. Invasive introduced species.",
     "rarity": "common",
-    "catskillsNotes": "Aggressive invasive. Outcompetes native plants. Control efforts ongoing."
+    "catskillsNotes": "Aggressive invasive. Outcompetes native plants. Control efforts ongoing.",
+    "identification": {
+      "height": "2-4 feet",
+      "leafShape": "Alternate, deeply lobed below, entire above, rough texture",
+      "flowerDescription": "Purple-pink thistle-like head 1\", black-tipped bracts below",
+      "fruitSeed": "Achenes with short bristles",
+      "distinguishingFeatures": "Black-tipped bracts, purple thistle-like flowers, NO SPINES, invasive",
+      "lookalikes": [
+        "Thistles",
+        "Brown Knapweed"
+      ],
+      "lookalikeDifferences": "Thistles: SPINY. Brown: brown-tipped bracts. Spotted: black-tipped, no spines"
+    },
+    "whereToLook": [
+      "Roadsides",
+      "Fields",
+      "Disturbed ground",
+      "Dry areas"
+    ],
+    "peakSeason": "June-September",
+    "catskillsLocations": [
+      "Invasive along roads",
+      "Dry disturbed areas"
+    ]
   },
   {
     "id": "burdock",
     "commonName": "Common Burdock",
     "latinName": "Arctium minus",
     "family": "Asteraceae",
-    "bloomMonths": [7, 8, 9],
-    "habitat": ["Roadsides", "Disturbed areas", "Woods edges"],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "habitat": [
+      "Roadsides",
+      "Disturbed areas",
+      "Woods edges"
+    ],
     "elevation": "500-2500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633493",
     "description": "Purple thistle-like flowers. Large heart-shaped leaves. Seed heads with hooked bracts (burrs).",
     "rarity": "common",
-    "catskillsNotes": "First-year root is edible (gobo in Japanese cuisine). Burrs inspired Velcro invention."
+    "catskillsNotes": "First-year root is edible (gobo in Japanese cuisine). Burrs inspired Velcro invention.",
+    "identification": {
+      "height": "3-6 feet",
+      "leafShape": "Huge basal leaves (to 18\"), heart-shaped, woolly underneath, long petioles",
+      "flowerDescription": "Purple thistle-like flowers 1-1.5\", hooked bract burrs",
+      "fruitSeed": "Achenes in burr heads that stick to animals/clothing",
+      "distinguishingFeatures": "HUGE heart leaves, hooked burrs that stick aggressively, hollow stem",
+      "lookalikes": [
+        "Rhubarb",
+        "Other large leaves"
+      ],
+      "lookalikeDifferences": "Rhubarb: red stems, cultivated. Burdock: hollow stem, purple flowers, burrs"
+    },
+    "whereToLook": [
+      "Roadsides",
+      "Waste areas",
+      "Disturbed ground",
+      "Fields"
+    ],
+    "peakSeason": "July-October",
+    "catskillsLocations": [
+      "Roadsides",
+      "Farmyards",
+      "Disturbed areas"
+    ]
   },
   {
     "id": "pussytoes",
     "commonName": "Field Pussytoes",
     "latinName": "Antennaria neglecta",
     "family": "Asteraceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Dry fields", "Open woods", "Rocky areas"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Dry fields",
+      "Open woods",
+      "Rocky areas"
+    ],
     "elevation": "800-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633488",
     "description": "Low-growing with fuzzy white flower clusters resembling cat paws. Stoloniferous groundcover.",
     "rarity": "common",
-    "catskillsNotes": "Dioecious. Forms mats in dry sunny locations."
+    "catskillsNotes": "Dioecious. Forms mats in dry sunny locations.",
+    "identification": {
+      "height": "4-12 inches",
+      "leafShape": "Basal rosette, spoon-shaped, 1-3\", woolly white underneath",
+      "flowerDescription": "White fuzzy flower heads in cluster, resembling cat paws",
+      "fruitSeed": "Achenes with pappus",
+      "distinguishingFeatures": "Low mat, white fuzzy 'paws', woolly leaves, dioecious (separate male/female)",
+      "lookalikes": [
+        "Other Pussytoes species",
+        "Everlasting"
+      ],
+      "lookalikeDifferences": "Many pussytoes species very similar - habitat and leaf details separate them"
+    },
+    "whereToLook": [
+      "Dry fields",
+      "Sandy soils",
+      "Open woods",
+      "Clearings"
+    ],
+    "peakSeason": "April-June",
+    "catskillsLocations": [
+      "Dry open areas",
+      "Forest clearings"
+    ]
   },
   {
     "id": "bluets",
     "commonName": "Bluets",
     "latinName": "Houstonia caerulea",
     "family": "Rubiaceae",
-    "bloomMonths": [4, 5, 6],
-    "habitat": ["Lawns", "Fields", "Roadsides"],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "habitat": [
+      "Lawns",
+      "Fields",
+      "Roadsides"
+    ],
     "elevation": "500-3000 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633579",
     "description": "Tiny pale blue four-petaled flowers with yellow centers. Forms low mats.",
     "rarity": "common",
-    "catskillsNotes": "Also called Quaker Ladies. Carpets lawns and fields in spring."
+    "catskillsNotes": "Also called Quaker Ladies. Carpets lawns and fields in spring.",
+    "identification": {
+      "height": "3-8 inches",
+      "leafShape": "Opposite, small, oval, 0.25-0.5\", basal rosette",
+      "flowerDescription": "Tiny pale blue 4-petaled flowers 0.5\", yellow center, solitary on stems",
+      "fruitSeed": "Small capsule",
+      "distinguishingFeatures": "Tiny pale blue flowers, yellow eye, carpet-forming, delicate",
+      "lookalikes": [
+        "Forget-me-nots",
+        "Speedwells"
+      ],
+      "lookalikeDifferences": "Forget-me-not: 5 petals, blue. Speedwell: irregular flower. Bluets: 4 petals, cross shape"
+    },
+    "whereToLook": [
+      "Lawns",
+      "Fields",
+      "Roadsides",
+      "Open woods"
+    ],
+    "peakSeason": "April-July",
+    "catskillsLocations": [
+      "Lawns and fields",
+      "Open areas"
+    ]
   },
   {
     "id": "bedstraw",
     "commonName": "Sweet-scented Bedstraw",
     "latinName": "Galium triflorum",
     "family": "Rubiaceae",
-    "bloomMonths": [5, 6, 7],
-    "habitat": ["Woods", "Thickets"],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "habitat": [
+      "Woods",
+      "Thickets"
+    ],
     "elevation": "800-3500 ft",
     "illustrationUrl": "https://www.biodiversitylibrary.org/pageimage/24633573",
     "description": "Small white flowers in clusters of three. Whorled leaves. Sweet vanilla scent when dried.",
     "rarity": "common",
-    "catskillsNotes": "Historically used as mattress stuffing. Related to coffee."
+    "catskillsNotes": "Historically used as mattress stuffing. Related to coffee.",
+    "identification": {
+      "height": "1-3 feet, sprawling",
+      "leafShape": "Whorls of 4-6 narrow linear leaves around square stem",
+      "flowerDescription": "Tiny white 4-petaled flowers in branched clusters, sweet-scented",
+      "fruitSeed": "Paired round nutlets, smooth",
+      "distinguishingFeatures": "Whorled leaves, square stem, weak scrambling habit, sweet hay scent when dried",
+      "lookalikes": [
+        "Other bedstraws",
+        "Cleavers"
+      ],
+      "lookalikeDifferences": "Cleavers: hooked bristles on stem/leaves. Sweet: smooth, fragrant"
+    },
+    "whereToLook": [
+      "Woods",
+      "Thickets",
+      "Meadows",
+      "Part shade"
+    ],
+    "peakSeason": "May-August",
+    "catskillsLocations": [
+      "Woodland edges",
+      "Meadows"
+    ]
   }
 ]

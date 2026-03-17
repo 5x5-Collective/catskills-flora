@@ -136,6 +136,113 @@ export function SpeciesDetailPage() {
             </div>
           </motion.div>
 
+          {/* Identification Guide */}
+          {species.identification && (
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.35 }}
+              className="field-journal-card"
+            >
+              <h3 className="text-xl font-semibold text-ink-800 mb-4">Field Identification</h3>
+              
+              <div className="space-y-4">
+                <div>
+                  <h4 className="font-semibold text-ink-700 mb-1">Height</h4>
+                  <p className="text-ink-800">{species.identification.height}</p>
+                </div>
+
+                <div>
+                  <h4 className="font-semibold text-ink-700 mb-1">Leaves</h4>
+                  <p className="text-ink-800">{species.identification.leafShape}</p>
+                </div>
+
+                <div>
+                  <h4 className="font-semibold text-ink-700 mb-1">Flowers</h4>
+                  <p className="text-ink-800">{species.identification.flowerDescription}</p>
+                </div>
+
+                <div>
+                  <h4 className="font-semibold text-ink-700 mb-1">Fruit/Seeds</h4>
+                  <p className="text-ink-800">{species.identification.fruitSeed}</p>
+                </div>
+
+                {species.identification.bark && (
+                  <div>
+                    <h4 className="font-semibold text-ink-700 mb-1">Bark</h4>
+                    <p className="text-ink-800">{species.identification.bark}</p>
+                  </div>
+                )}
+
+                <div className="pt-4 border-t border-ink-600/20">
+                  <h4 className="font-semibold text-ink-700 mb-1">🔍 Key Features to Look For</h4>
+                  <p className="text-ink-800 font-medium">{species.identification.distinguishingFeatures}</p>
+                </div>
+
+                {species.identification.lookalikes && species.identification.lookalikes.length > 0 && (
+                  <div className="pt-4 border-t border-ink-600/20 bg-botanical-yellow/10 p-4 rounded">
+                    <h4 className="font-semibold text-ink-700 mb-2">⚠️ Similar Species (Lookalikes)</h4>
+                    <div className="flex flex-wrap gap-2 mb-3">
+                      {species.identification.lookalikes.map((lookalike, i) => (
+                        <span
+                          key={i}
+                          className="px-2 py-1 bg-botanical-yellow/30 border border-botanical-yellow/50 rounded text-sm text-ink-800"
+                        >
+                          {lookalike}
+                        </span>
+                      ))}
+                    </div>
+                    <h5 className="text-sm font-semibold text-ink-700 mb-1">How to Tell Them Apart:</h5>
+                    <p className="text-sm text-ink-800">{species.identification.lookalikeDifferences}</p>
+                  </div>
+                )}
+              </div>
+            </motion.div>
+          )}
+
+          {/* Where to Look in the Catskills */}
+          {species.whereToLook && species.whereToLook.length > 0 && (
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.4 }}
+              className="field-journal-card bg-forest-50"
+            >
+              <h3 className="text-lg font-semibold text-ink-800 mb-3">📍 Where to Look in the Catskills</h3>
+              <ul className="space-y-2">
+                {species.whereToLook.map((location, i) => (
+                  <li key={i} className="flex items-start gap-2 text-ink-800">
+                    <span className="text-forest-600 mt-1">•</span>
+                    <span>{location}</span>
+                  </li>
+                ))}
+              </ul>
+              
+              {species.peakSeason && (
+                <div className="mt-4 pt-4 border-t border-ink-600/20">
+                  <h4 className="font-semibold text-ink-700 mb-1">📅 Best Time to Find</h4>
+                  <p className="text-ink-800">{species.peakSeason}</p>
+                </div>
+              )}
+
+              {species.catskillsLocations && species.catskillsLocations.length > 0 && (
+                <div className="mt-4 pt-4 border-t border-ink-600/20">
+                  <h4 className="font-semibold text-ink-700 mb-2">🗺️ Known Locations</h4>
+                  <div className="flex flex-wrap gap-2">
+                    {species.catskillsLocations.map((loc, i) => (
+                      <span
+                        key={i}
+                        className="px-3 py-1 bg-forest-200 border border-forest-400 rounded text-sm text-ink-800"
+                      >
+                        {loc}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </motion.div>
+          )}
+
           {/* Your Specimens */}
           {specimens && specimens.length > 0 && (
             <motion.div

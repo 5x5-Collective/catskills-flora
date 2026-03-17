@@ -11,6 +11,17 @@ export interface SpecimenEntry {
   diyIdeas?: IdeaCard[];
 }
 
+export interface PlantIdentification {
+  height: string;
+  leafShape: string;
+  flowerDescription: string;
+  fruitSeed: string;
+  bark?: string;
+  distinguishingFeatures: string;
+  lookalikes: string[];
+  lookalikeDifferences: string;
+}
+
 export interface PlantSpecies {
   id: string;
   commonName: string;
@@ -23,6 +34,10 @@ export interface PlantSpecies {
   description: string;
   rarity: 'common' | 'uncommon' | 'rare';
   catskillsNotes?: string;
+  identification?: PlantIdentification;
+  whereToLook?: string[];
+  peakSeason?: string;
+  catskillsLocations?: string[];
 }
 
 export interface IdeaCard {
