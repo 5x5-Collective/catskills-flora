@@ -2,13 +2,15 @@ import { useParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../lib/db';
-import { SpecimenEntry } from '../lib/types';
-import speciesData from '../data/species.json';
+import { PlantSpecies, SpecimenEntry } from '../lib/types';
+import speciesData from '../data/species.json' with { type: 'json' };
+
+const species_list = speciesData as unknown as PlantSpecies[];
 import { monthNames } from '../lib/seasons';
 
 export function SpeciesDetailPage() {
   const { id } = useParams<{ id: string }>();
-  const species = speciesData.find(s => s.id === id);
+  const species = species_list.find(s => s.id === id);
   const specimens = useLiveQuery<SpecimenEntry[]>(() => 
     id ? db.specimens.where('speciesId').equals(id).toArray() : Promise.resolve([]),
     [id]
